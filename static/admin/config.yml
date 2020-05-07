@@ -1,6 +1,6 @@
 backend:
-  name: jakobmagnus
-  repo: jakobmagnus/portfolio-with-cms
+  name: https://github.com/jakobmagnus
+  repo: https://github.com/jakobmagnus/portfolio-with-cms
 
 media_folder: static/assets
 public_folder: assets
