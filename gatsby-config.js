@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Product Designer Portfolio`,
+    title: `Jakob`,
     author: `Jakob Magnusson`,
     description: `This is my home on the internet`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
@@ -78,12 +78,6 @@ module.exports = {
         display: `minimal-ui`,
         // edit below
         icon: `content/assets/gatsby-icon.png`,
-      },
-    },
-    {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/utils/typography`,
       },
     },
   ],

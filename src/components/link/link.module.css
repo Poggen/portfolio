@@ -1,0 +1,4 @@
+.link {
+  display: block;
+  padding: var(--spacing-small) 0;
+}

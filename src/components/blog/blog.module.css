@@ -1,0 +1,11 @@
+.excerpt {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.meta {
+  font-style: italic;
+  padding: var(--spacing-small) 0;
+  margin-left: var(--spacing-small);
+}

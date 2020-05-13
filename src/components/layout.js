@@ -1,8 +1,10 @@
 import React from "react"
 import { Link } from "gatsby"
-import styled from "styled-components"
-
-import { rhythm, scale } from "../utils/typography"
+import "./layout.css"
+import Footer from "./footer/Footer"
+import Container from "./container/container"
+import HeaderPrimary from "../components/header/headerPrimary"
+import Contact from "../components/contact/Contact"
 
 class Layout extends React.Component {
   render() {
@@ -13,13 +15,7 @@ class Layout extends React.Component {
 
     if (location.pathname === rootPath || location.pathname === blogPath) {
       header = (
-        <h1
-          style={{
-            ...scale(1.5),
-            marginBottom: rhythm(1.5),
-            marginTop: 0,
-          }}
-        >
+        <h1>
           <Link
             style={{
               boxShadow: `none`,
@@ -54,35 +50,16 @@ class Layout extends React.Component {
       )
     }
     return (
-      <Wrapper>
-        <div
-          style={{
-            marginLeft: `auto`,
-            marginRight: `auto`,
-            maxWidth: rhythm(24),
-            padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-          }}
-        >
-          <header>{header}</header>
-          <main>{children}</main>
-        </div>
-        <Footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </Footer>
-      </Wrapper>
+      <>
+        <HeaderPrimary title={title}></HeaderPrimary>
+        <main>{children}</main>
+        <Contact />
+        <Container>
+          <Footer />
+        </Container>
+      </>
     )
   }
 }
-
-const Wrapper = styled.div`
-  min-height: 100vh;
-`
-
-const Footer = styled.footer`
-  text-align: center;
-  margin: 24px;
-`
 
 export default Layout

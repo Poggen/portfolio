@@ -1,0 +1,22 @@
+.header {
+  font-family: var(--heading-font-family);
+  margin-bottom: var(--spacing-medium);
+}
+
+.header:after {
+  content: "";
+  display: block;
+  background-color: var(--color-black);
+  width: var(--heading-dash-width);
+  height: var(--heading-dash-height);
+}
+
+.primary {
+  padding: var(--spacing-xlarge) 0 0;
+  font-family: var(--heading-font-family);
+}
+
+.secondary {
+  padding: var(--spacing-large) 0 0;
+  font-family: var(--heading-font-family);
+}
