@@ -24,7 +24,6 @@ class Blog extends React.Component {
               <div key={node.fields.slug}>
                 <h3
                   style={{
-                    marginBottom: rhythm(1 / 4),
                   }}
                 >
                   <Link
