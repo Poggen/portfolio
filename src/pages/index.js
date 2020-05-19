@@ -1,9 +1,9 @@
 import React from "react"
-import { Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Excerpt from "../components/blog/Excerpt"
 import TextPrimary from "../components/text/textPrimary"
+import Contact from "../components/contact/Contact"
 
 class IndexPage extends React.Component {
   render() {
@@ -25,6 +25,7 @@ class IndexPage extends React.Component {
             )
           })}
         </TextPrimary>
+        <Contact />
       </Layout>
     )
   }

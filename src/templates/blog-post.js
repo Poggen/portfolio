@@ -1,38 +1,33 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 import { MDXRenderer } from "gatsby-plugin-mdx"
-
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { rhythm, scale } from "../utils/typography"
+import Container from "../components/container/container"
 
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.mdx
     const siteTitle = this.props.data.site.siteMetadata.title
     const { previous, next } = this.props.pageContext
-
+    console.log(post.body)
     return (
-      <Layout location={this.props.location} title={siteTitle}>
+      <Layout location={this.props.location} title={post.frontmatter.title}>
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
         />
-        <h1>{post.frontmatter.title}</h1>
-        <p
-          style={{
-            display: `block`,
-          }}
-        >
-          {post.frontmatter.date}
-        </p>
-        <MDXRenderer>{post.body}</MDXRenderer>
-        <hr
-          style={{
-          }}
-        />
-        <Bio />
+        <Container>
+          <p
+            style={{
+              display: `block`,
+            }}
+          >
+            {post.frontmatter.date}
+          </p>
+          <MDXRenderer>{post.body}</MDXRenderer>
+        </Container>
 
         <ul
           style={{
