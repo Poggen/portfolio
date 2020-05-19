@@ -9,3 +9,13 @@
   padding: var(--spacing-small) 0;
   margin-left: var(--spacing-small);
 }
+
+.content * {
+  margin: 0 auto;
+  max-width: var(--container-width);
+  padding: 0 var(--spacing-small);
+}
+
+.content img {
+  max-width: 720px;
+}

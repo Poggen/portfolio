@@ -5,6 +5,7 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Container from "../components/container/container"
+import BlogContent from "../components/blog/BlogContent"
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -26,8 +27,9 @@ class BlogPostTemplate extends React.Component {
           >
             {post.frontmatter.date}
           </p>
-          <MDXRenderer>{post.body}</MDXRenderer>
         </Container>
+        <BlogContent>{post.body}
+        </BlogContent>
 
         <ul
           style={{

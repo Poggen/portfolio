@@ -56,9 +56,8 @@ a:hover {
   color: var(--color-blue);
 }
 
-.alignleft {
-	float: left;
+img {
+  display: block;
+  width: 100%;
 }
-.alignright {
-	float: right;
-}
+
