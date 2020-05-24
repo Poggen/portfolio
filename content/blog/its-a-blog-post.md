@@ -1,6 +1,6 @@
 ---
 path: /lorem-ipsum
-date: 2020-05-24T18:50:12.145Z
+date: 2020-05-01T18:50:12.145Z
 title: It's a blog post!
 description: It's a blog post description
 ---
