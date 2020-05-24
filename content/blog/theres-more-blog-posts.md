@@ -1,5 +1,5 @@
 ---
-path: /lorem-ipsum
+path: /lorem-ipsum-part-two
 date: 2020-05-24T18:50:12.145Z
 title: There's more blog posts
 description: It's a blog post description
