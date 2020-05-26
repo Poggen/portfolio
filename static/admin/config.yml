@@ -6,10 +6,9 @@ media_folder: static/assets
 public_folder: assets
 
 collections:
-  - name: "case studies"
-    label: "Case Studies"
-    path: "{{slug}}"
-    folder: "content/case-studies"
+  - name: blog
+    label: Blog
+    folder: content/blog
     create: true
     fields:
       - { name: path, label: Path }
