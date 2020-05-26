@@ -18,7 +18,7 @@ collections:
       - { name: body, label: Body, widget: markdown }
   - name: work
     label: Work
-    folder: content/blog
+    folder: content/work
     create: true
     fields:
       - { name: path, label: Path }
