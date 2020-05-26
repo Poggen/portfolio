@@ -6,10 +6,10 @@ media_folder: static/assets
 public_folder: assets
 
 collections:
-  - name: case studies
-    label: Case Studies
+  - name: "case studies"
+    label: "Case Studies"
     path: "{{slug}}"
-    folder: content/case-studies
+    folder: "content/case-studies"
     create: true
     fields:
       - { name: path, label: Path }
@@ -17,10 +17,10 @@ collections:
       - { name: title, label: Title }
       - { name: description, label: Description }
       - { name: body, label: Body, widget: markdown }
-- name: blog
-    label: Blog
+- name: "blog"
+    label: "Blog"
     path: "{{slug}}"
-    folder: content/blog
+    folder: "content/blog"
     create: true
     fields:
       - { name: path, label: Path }
