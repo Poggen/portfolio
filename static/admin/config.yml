@@ -10,6 +10,7 @@ collections:
     label: Blog
     folder: content/blog
     create: true
+    identifier: name
     fields:
       - { name: path, label: Path }
       - { name: date, label: Date, widget: date }
@@ -20,6 +21,7 @@ collections:
     label: Work
     folder: content/work
     create: true
+    identifier: name
     fields:
       - { name: path, label: Path }
       - { name: date, label: Date, widget: date }

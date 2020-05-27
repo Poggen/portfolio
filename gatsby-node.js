@@ -5,6 +5,7 @@ exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
 
   const blogPost = path.resolve(`./src/templates/blog-post.js`)
+  const workPost = path.resolve(`./src/templates/blog-post.js`)
   return graphql(
     `
       {
@@ -29,6 +30,7 @@ exports.createPages = ({ graphql, actions }) => {
     if (result.errors) {
       throw result.errors
     }
+    console.log(result)
 
     // Create blog posts pages.
     const posts = result.data.allMdx.edges
