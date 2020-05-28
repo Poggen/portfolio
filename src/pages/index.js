@@ -11,6 +11,8 @@ class IndexPage extends React.Component {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
     const posts = data.allMdx.edges
+    const caseStudiesPosts = posts.filter(post => post.node.fileAbsolutePath.includes('case-studies'))
+    const blogPosts = posts.filter(post => post.node.fileAbsolutePath.includes('blog'))
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -25,19 +27,21 @@ class IndexPage extends React.Component {
         accessibility and late night coding.</TextPrimary>
         <HeaderSecondary title="Case studies" />
         <TextPrimary>
-          {posts.map(({ node }) => {
+          {caseStudiesPosts.map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
+            const url = `/case-studies${node.fields.slug}`
             return (
-              <Excerpt title={title} url={node.fields.slug}></Excerpt>
+              <Excerpt title={title} url={url}></Excerpt>
             )
           })}
         </TextPrimary>
-        <HeaderSecondary title="Thoughts" />
+        <HeaderSecondary title="Blog" />
         <TextPrimary>
-          {posts.map(({ node }) => {
+          {blogPosts.map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
+            const url = `/blog${node.fields.slug}`
             return (
-              <Excerpt title={title} date={node.frontmatter.date} url={node.fields.slug}></Excerpt>
+              <Excerpt title={title} date={node.frontmatter.date} url={url}></Excerpt>
             )
           })}
         </TextPrimary>
@@ -68,6 +72,7 @@ export const pageQuery = graphql`
             title
             description
           }
+          fileAbsolutePath
         }
       }
     }

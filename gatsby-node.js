@@ -21,6 +21,7 @@ exports.createPages = ({ graphql, actions }) => {
               frontmatter {
                 title
               }
+              fileAbsolutePath
             }
           }
         }
@@ -30,7 +31,6 @@ exports.createPages = ({ graphql, actions }) => {
     if (result.errors) {
       throw result.errors
     }
-    console.log(result)
 
     // Create blog posts pages.
     const posts = result.data.allMdx.edges
@@ -38,9 +38,10 @@ exports.createPages = ({ graphql, actions }) => {
     posts.forEach((post, index) => {
       const previous = index === posts.length - 1 ? null : posts[index + 1].node
       const next = index === 0 ? null : posts[index - 1].node
-
+      const path = post.node.fileAbsolutePath.includes('case-studies') ? `case-studies${post.node.fields.slug}` : `blog${post.node.fields.slug}`
+      console.log(path)
       createPage({
-        path: `blog${post.node.fields.slug}`,
+        path,
         component: blogPost,
         context: {
           slug: post.node.fields.slug,
