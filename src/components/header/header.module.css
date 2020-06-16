@@ -1,6 +1,6 @@
 .header {
   font-family: var(--heading-font-family);
-  margin-bottom: var(--spacing-medium);
+  margin-bottom: var(--spacing-small);
 }
 
 .header:after {
