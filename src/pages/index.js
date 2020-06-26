@@ -20,8 +20,8 @@ class IndexPage extends React.Component {
           title="Home"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
-        <TextPrimary>Product Designer at Sveriges Radio focusing on making our app meaningful and easy to use for our listeners.
-        My specialities are User Interface Design, Interaction Design and Design Systems.
+        <TextPrimary>Product Designer at Sveriges Radio focusing on making our app meaningful and easy to use for
+        our listeners. My specialities are User Interface Design, Interaction Design and Design Systems.
         I'm passionate about accessibility and late night coding.</TextPrimary>
         <HeaderSecondary title="Case studies" />
         <TextPrimary>
