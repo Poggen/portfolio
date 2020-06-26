@@ -3,6 +3,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Container from "../components/container/container"
 import BlogContent from "../components/blog/BlogContent"
+import Styles from "../components/blog/blog.module.css"
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -16,9 +17,7 @@ class BlogPostTemplate extends React.Component {
         />
         <Container>
           <p
-            style={{
-              display: `block`,
-            }}
+            className={Styles.postmeta}
           >
             {post.frontmatter.date}
           </p>

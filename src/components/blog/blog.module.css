@@ -10,12 +10,20 @@
   margin-left: var(--spacing-small);
 }
 
-.content * {
+.content {
   margin: 0 auto;
   max-width: var(--container-width);
   padding: 0 var(--spacing-xsmall);
 }
 
+.content > * + * {
+  margin-top: var(--spacing-small);
+}
+
 .content img {
   max-width: 720px;
+}
+
+.postmeta {
+  margin-bottom: var(--spacing-small);
 }
