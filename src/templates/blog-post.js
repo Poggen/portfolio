@@ -8,7 +8,6 @@ import Styles from "../components/blog/blog.module.css"
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.mdx
-    const siteTitle = this.props.data.site.siteMetadata.title
     return (
       <Layout location={this.props.location} title={post.frontmatter.title}>
         <SEO
