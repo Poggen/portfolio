@@ -21,9 +21,8 @@ class IndexPage extends React.Component {
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
         <TextPrimary>Product Designer at Sveriges Radio focusing on making our app meaningful and easy to use for our listeners.
-        To meet our listeners and understand their challenges is a vital part of our design process.
-        I work with User Interface Design, Interaction Design and Design Systems. I'm passionate about accessibility
-        and late night coding. </TextPrimary>
+        My specialities are User Interface Design, Interaction Design and Design Systems.
+        I'm passionate about accessibility and late night coding.</TextPrimary>
         <HeaderSecondary title="Case studies" />
         <TextPrimary>
           {caseStudiesPosts.map(({ node }) => {
