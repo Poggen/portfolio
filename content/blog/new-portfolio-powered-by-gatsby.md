@@ -5,3 +5,5 @@ title: Neat tools I used for my new portfolio
 description: A short description
 ---
 This is my new portfolio and I couldn't be happier to finally share it with you.
+
+!\[Drag Racing](Dragster.jpg)
