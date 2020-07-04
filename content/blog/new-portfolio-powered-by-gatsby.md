@@ -1,5 +1,5 @@
 ---
-path: /new-portfolio-powered-by-gatsby
+path: /neat-tools-i-used-for-my-new-portfolio
 date: 2020-07-04T17:16:46.234Z
 title: Neat tools I used for my new portfolio
 description: A short description
