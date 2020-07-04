@@ -8,9 +8,11 @@ description: Useful findings I did while diving into React, Gatsby and Netlify.
 
 I couldn't be happier to share my new portfolio with you. Pictured above is the result of some months work, the code for this blog page. But let's start from the beginning.
 
+
 ![](https://portfolio-with-cms.netlify.app/assets/gatsby.png)
 
 I was curious about the possibilities with React and after taking a few courses I really started to appreciate Gatsby. It's a boiler template for web projects in React and together with Netlify it makes developing and deploying web projects so much smoother.
+
 
 ![](https://portfolio-with-cms.netlify.app/assets/enkelradio.png)
 
