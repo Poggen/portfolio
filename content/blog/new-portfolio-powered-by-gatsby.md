@@ -6,13 +6,12 @@ description: A short description
 ---
 ![](https://portfolio-with-cms.netlify.app/assets/vsc.png)
 
-This is my new portfolio and I couldn't be happier to share it with you.
-Pictured above is the result of some months work, the code for this blog page. But lets start from the beginning.
-
-![](https://portfolio-with-cms.netlify.app/assets/enkelradio.png)
-
-I was curious about the possibilites with React and after taking some courses I figured the first step would be to create something that worked with real data. I found the amazing boiler plate [Gatsby](https://www.gatsbyjs.org/) and created a simple radio player that used our [open API at Sveriges Radio.](https://sverigesradio.se/oppetapi) You can try it by [clicking here. ](https://enkelradio.com/)
+I couldn't be happier to share my new portfolio with you. Pictured above is the result of some months work, the code for this blog page. But let's start from the beginning.
 
 ![](https://portfolio-with-cms.netlify.app/assets/gatsby.png)
 
-Asdf
+I was curious about the possibilities with React and after taking a few courses I really started to appreciate Gatsby. It's a boiler template for web projects in React and together with Netlify it makes developing and deploying web projects so much smoother.
+
+![](https://portfolio-with-cms.netlify.app/assets/enkelradio.png)
+
+As a first project I created a simple radio player that uses our open API at Sveriges Radio. You can try it by [clicking here. ](https://enkelradio.com/). It's pretty amazing that re-usable components are as easy to create in design as in code. The buttons for each channels are the same component with different props.
