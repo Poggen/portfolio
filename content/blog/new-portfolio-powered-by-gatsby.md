@@ -4,10 +4,9 @@ date: 2020-07-04T17:16:46.234Z
 title: Neat tools I used for my new portfolio
 description: A short description
 ---
-This is my new portfolio and I couldn't be happier to share it with you. 
-
 ![](https://portfolio-with-cms.netlify.app/assets/vsc.png)
 
+This is my new portfolio and I couldn't be happier to share it with you.
 Pictured above is the result of some months work, the code for this blog page. But lets start from the beginning.
 
 ![](https://portfolio-with-cms.netlify.app/assets/enkelradio.png)
