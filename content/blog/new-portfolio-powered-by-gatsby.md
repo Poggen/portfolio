@@ -7,4 +7,4 @@ description: A short description
 
 This is my new portfolio and I couldn't be happier to finally share it with you.
 
-![](assets/vsc.png)
+![](https://portfolio-with-cms.netlify.app/assets/vsc.png)
