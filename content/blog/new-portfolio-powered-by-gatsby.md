@@ -14,4 +14,4 @@ I was curious about the possibilities with React and after taking a few courses 
 
 ![](https://portfolio-with-cms.netlify.app/assets/enkelradio.png)
 
-As a first project I created a simple radio player that uses our open API at Sveriges Radio. You can try it by [clicking here. ](https://enkelradio.com/) It's pretty amazing that re-usable components are as easy to create in design as in code. The buttons for each channels are the same component with different props.
+As a first project I created a simple radio player that uses our open API at Sveriges Radio. It's pretty amazing that re-usable components are as easy to create in design as in code. The buttons for each channels are the same component with different props. You can try the radio player by [clicking here.](https://enkelradio.com/)
