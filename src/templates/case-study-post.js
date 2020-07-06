@@ -18,7 +18,7 @@ class CaseStudyPostTemplate extends React.Component {
           <p
             className={Styles.postmeta}
           >
-            {post.frontmatter.date}
+            {post.frontmatter.description}
           </p>
         </Container>
         <BlogContent>{post.body}
