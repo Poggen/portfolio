@@ -22,7 +22,7 @@ class IndexPage extends React.Component {
         />
         <TextPrimary>Product Designer focusing on making Sveriges Radio meaningful and easy to use for our listeners.
         My specialities are User Interface Design, Interaction Design and Design Systems.
-        I'm passionate about accessibility and late night coding.</TextPrimary>
+        I'm passionate about accessibility and late night coding. </TextPrimary>
         <HeaderSecondary title="Case studies" />
         <TextPrimary>
           {caseStudiesPosts.map(({ node }) => {
