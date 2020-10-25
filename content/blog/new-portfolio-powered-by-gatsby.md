@@ -1,5 +1,5 @@
 ---
-path: /neat-tools-i-used-for-my-new-portfolio
+path: /What-I-learned-while-building-my-portfolio
 date: 2020-07-04T17:16:46.234Z
 title: What I learned while building my portfolio
 description: Useful findings I did while diving into React, Gatsby and Netlify.
