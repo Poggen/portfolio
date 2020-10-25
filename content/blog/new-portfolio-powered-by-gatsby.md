@@ -4,17 +4,16 @@ date: 2020-07-04T17:16:46.234Z
 title: What I learned while building my portfolio
 description: Useful findings I did while diving into React, Gatsby and Netlify.
 ---
-![](https://portfolio-with-cms.netlify.app/assets/vsc.png)
+![](https://portfolio-with-cms.netlify.app/assets/picture.png)
 
-I couldn't be happier to share my new portfolio with you. Pictured above is the result of some months work, the code for this blog page. But let's start from the beginning.
-
-
-
-![](https://portfolio-with-cms.netlify.app/assets/gatsby.png)
-
-I was curious about the possibilities with React and after taking a few courses I really started to appreciate Gatsby. It's a boiler template for web projects in React and together with Netlify it makes developing and deploying web projects so much smoother.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 
-![](https://portfolio-with-cms.netlify.app/assets/enkelradio.png)
+![](https://portfolio-with-cms.netlify.app/assets/picture.png)
 
-As a first project I created a simple radio player that uses our open API at Sveriges Radio. It's pretty amazing that re-usable components are as easy to create in design as in code. The buttons for each channels are the same component with different props. You can try the radio player by [clicking here.](https://enkelradio.com/)
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+
+![](https://portfolio-with-cms.netlify.app/assets/picture.png)
+
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
