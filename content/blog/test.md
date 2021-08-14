@@ -1,5 +1,5 @@
 ---
-path: in-a-web-full-of-clutter-try-to-declutter
+path: on-a-web-full-of-clutter-try-to-declutter
 date: 2021-08-14T16:43:08.282Z
 title: In a web full of clutter, try to declutter
 description: Gatsby, Fonts, Usability
