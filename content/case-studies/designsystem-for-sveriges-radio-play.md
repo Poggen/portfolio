@@ -1,7 +1,7 @@
 ---
-path: /designsystem-for-sveriges-radio-play
+path: /designsystem-for-sveriges-radio
 date: 2020-07-04T17:18:30.008Z
-title: Designsystem for Sveriges Radio Play
+title: Designsystem for Sveriges Radio
 description: iOS, Android, Abstract
 ---
 **Overview**  
