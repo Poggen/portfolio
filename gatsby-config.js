@@ -18,6 +18,14 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-postcss`,
     {
+      resolve: `gatsby-plugin-postcss`,
+      options: {
+        cssLoaderOptions: {
+          exportLocalsConvention: false,
+          namedExport: false,
+        },
+      },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
@@ -49,15 +57,6 @@ module.exports = {
               maxWidth: 590,
             },
           },
-          {
-            resolve: `gatsby-plugin-postcss`,
-            options: {
-              cssLoaderOptions: {
-                camelCase: false,
-              },
-            },
-          },
-        ]
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
