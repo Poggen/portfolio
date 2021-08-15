@@ -1,5 +1,5 @@
 import React from "react"
-import styles from "./blog.module.css"
+import * as styles from "./blog.module.css"
 import Link from "../link/Link"
 
 const Excerpt = ({ title, date, url }) => (

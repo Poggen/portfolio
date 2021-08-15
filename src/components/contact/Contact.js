@@ -1,6 +1,6 @@
 import PropTypes from "prop-types"
 import React from "react"
-import styles from "./contact.module.css"
+import * as styles from "./contact.module.css"
 import Container from "../container/container"
 import Link from "../link/Link"
 import Links from "./links.json"

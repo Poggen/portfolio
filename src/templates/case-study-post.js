@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Container from "../components/container/container"
 import BlogContent from "../components/blog/BlogContent"
-import Styles from "../components/blog/blog.module.css"
+import * as Styles from "../components/blog/blog.module.css"
 
 class CaseStudyPostTemplate extends React.Component {
   render() {

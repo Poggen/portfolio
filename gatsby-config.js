@@ -16,15 +16,6 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-postcss`,
-    {
-      resolve: `gatsby-plugin-postcss`,
-      options: {
-        cssLoaderOptions: {
-          exportLocalsConvention: false,
-          namedExport: false,
-        },
-      },
     {
       resolve: `gatsby-source-filesystem`,
       options: {

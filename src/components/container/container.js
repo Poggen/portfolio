@@ -1,5 +1,5 @@
 import React from "react"
-import styles from "./container.module.css"
+import * as styles from "./container.module.css"
 
 const Container = ({ children }) => (
   <div className={styles.container}>
