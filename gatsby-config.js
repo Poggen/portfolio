@@ -16,6 +16,7 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-postcss`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -48,6 +49,15 @@ module.exports = {
               maxWidth: 590,
             },
           },
+          {
+            resolve: `gatsby-plugin-postcss`,
+            options: {
+              cssLoaderOptions: {
+                camelCase: false,
+              },
+            },
+          },
+        ]
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
