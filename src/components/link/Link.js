@@ -1,6 +1,6 @@
 import PropTypes from "prop-types"
 import React from "react"
-import styles from "./link.module.css"
+import * as styles from "./link.module.css"
 
 const Link = ({ title, date, url }) => (
   <a href={url} className={styles.link}>{title}</a>
