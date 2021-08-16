@@ -6,7 +6,7 @@
 .header:after {
   content: "";
   display: block;
-  background-color: var(--color-black);
+  background-color: var(--color-white);
   width: var(--heading-dash-width);
   height: var(--heading-dash-height);
 }
