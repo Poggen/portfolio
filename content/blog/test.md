@@ -1,5 +1,5 @@
 ---
-path: on-a-web-full-of-clutter-try-to-declutter
+path: "1"
 date: 2021-08-14T16:43:08.282Z
 title: There are many variations of passages of Lorem Ipsum available
 description: Gatsby, Fonts, Usability
