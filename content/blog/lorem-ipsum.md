@@ -1,7 +1,7 @@
 ---
 path: /things-i-learned-while-building-my-new-portfolio-site
 date: 2021-08-14T16:14:42.935Z
-title: Things I learned while building my new portfolio site
+title: Lorem Ipsum has been the industry's standard dummy text
 description: Gatsby, React, Netlify
 ---
 **Lorem ipsum**\
