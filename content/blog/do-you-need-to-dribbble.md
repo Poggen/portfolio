@@ -1,5 +1,5 @@
 ---
-path: do-you-really-need-to-dribbble
+path: "3"
 date: 2021-08-14T16:43:08.282Z
 title: Lorem Ipsum is simply dummy text
 description: Sketch, Figma, Dribbble
