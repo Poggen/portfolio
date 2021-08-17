@@ -54,6 +54,7 @@ body {
   line-height: 1.4;
   -moz-osx-font-smoothing: grayscale;
   font-family: system-ui;
+  background-color: var(--color-black)
 }
 
 a {
