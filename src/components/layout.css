@@ -36,17 +36,17 @@
 html {
   font-size: var(--base-font-size);
   color: var(--color-white);
-  background-color: var(--color-black)
+  background-color: var(--color-black);
 }
 
 h1 {
   font-size: var(--header-primary-size);
-  color: var(--color-white)
+  color: var(--color-white);
 }
 
 h2 {
   font-size: var(--header-secondary-size);
-  color: var(--color-white)
+  color: var(--color-white);
 }
 
 body {
@@ -54,7 +54,6 @@ body {
   line-height: 1.4;
   -moz-osx-font-smoothing: grayscale;
   font-family: system-ui;
-  background-color: var(--color-black)
 }
 
 a {
