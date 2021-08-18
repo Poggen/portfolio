@@ -36,7 +36,6 @@
 html {
   font-size: var(--base-font-size);
   color: var(--color-white);
-  background-color: var(--color-black);
 }
 
 h1 {
@@ -49,11 +48,16 @@ h2 {
   color: var(--color-white);
 }
 
+.body-bg {
+  background-color: var(--color-black);
+}
+
 body {
   font-size: var(--body-font-size);
   line-height: 1.4;
   -moz-osx-font-smoothing: grayscale;
   font-family: system-ui;
+  background-color: var(--color-black);
 }
 
 a {
