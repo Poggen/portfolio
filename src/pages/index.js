@@ -22,26 +22,26 @@ class IndexPage extends React.Component {
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
         <TextPrimary>Product Designer at Sveriges Radio. I design user-friendly products and services.
-        My specialities are User Interface Design, Interaction Design and Design Systems.
-        I'm passionate about accessibility and late night coding.
-</TextPrimary>
+          My specialities are User Interface Design, Interaction Design and Design Systems.
+          I'm passionate about accessibility and late night coding.
+        </TextPrimary>
         <HeaderSecondary title="Case studies" />
         <TextPrimary>
-          {caseStudiesPosts.map(({ node }) => {
+          {caseStudiesPosts.map(({ node }, index) => {
             const title = node.frontmatter.title || node.fields.slug
             const url = `/case-studies${node.fields.slug}`
             return (
-              <Excerpt title={title} url={url}></Excerpt>
+              <Excerpt title={title} url={url} key={index}></Excerpt>
             )
           })}
         </TextPrimary>
         <HeaderSecondary title="Blog" />
         <TextPrimary>
-          {blogPosts.map(({ node }) => {
+          {blogPosts.map(({ node }, index) => {
             const title = node.frontmatter.title || node.fields.slug
             const url = `/blog${node.fields.slug}`
             return (
-              <Excerpt title={title} date={node.frontmatter.date} url={url}></Excerpt>
+              <Excerpt title={title} date={node.frontmatter.date} url={url} key={index}></Excerpt>
             )
           })}
         </TextPrimary>

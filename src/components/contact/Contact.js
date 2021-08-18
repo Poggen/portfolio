@@ -13,7 +13,7 @@ const Contact = ({ children }) => (
       <div className={styles.contact}>
         {Links.map(link => {
           return (
-            <Link title={link.title} url={link.url}></Link>
+            <Link title={link.title} url={link.url} key={link.title}></Link>
           );
         })}
       </div>
