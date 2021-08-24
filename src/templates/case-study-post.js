@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import Container from "../components/container/container"
 import BlogContent from "../components/blog/BlogContent"
 import * as Styles from "../components/blog/blog.module.css"
@@ -11,7 +11,7 @@ class CaseStudyPostTemplate extends React.Component {
     const post = this.props.data.mdx
     return (
       <Layout location={this.props.location} title={post.frontmatter.title}>
-        <SEO
+        <Seo
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
         />

@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from 'gatsby'
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import Excerpt from "../components/blog/Excerpt"
 import TextPrimary from "../components/text/textPrimary"
 import Contact from "../components/contact/Contact"
@@ -17,7 +17,7 @@ class IndexPage extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO
+        <Seo
           title="Home"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
