@@ -2,10 +2,11 @@ import React from "react"
 import { graphql } from 'gatsby'
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import Excerpt from "../components/blog/Excerpt"
+import BlogExcerpt from "../components/blog/BlogExcerpt"
 import TextPrimary from "../components/text/textPrimary"
 import Contact from "../components/contact/Contact"
 import HeaderSecondary from "../components/header/headerSecondary"
+import CaseExcerpt from "../components/casestudy/CasestudyExcerpt"
 
 class IndexPage extends React.Component {
   render() {
@@ -31,7 +32,7 @@ class IndexPage extends React.Component {
             const title = node.frontmatter.title || node.fields.slug
             const url = `/case-studies${node.fields.slug}`
             return (
-              <Excerpt title={title} url={url} key={index}></Excerpt>
+              <CaseExcerpt title={title} url={url} key={index}/>
             )
           })}
         </TextPrimary>
@@ -41,7 +42,7 @@ class IndexPage extends React.Component {
             const title = node.frontmatter.title || node.fields.slug
             const url = `/blog${node.fields.slug}`
             return (
-              <Excerpt title={title} date={node.frontmatter.date} url={url} key={index}></Excerpt>
+              <BlogExcerpt title={title} date={node.frontmatter.date} url={url} key={index}></BlogExcerpt>
             )
           })}
         </TextPrimary>

@@ -2,3 +2,8 @@
   display: block;
   padding: var(--spacing-small) 0;
 }
+
+.blogLink {
+  display: block;
+  padding: var(--spacing-small) 0 0;
+}
