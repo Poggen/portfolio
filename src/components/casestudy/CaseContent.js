@@ -1,11 +1,11 @@
 import React from "react"
-import * as styles from "./blog.module.css"
+import * as styles from "./casestudy.module.css"
 import { MDXRenderer } from "gatsby-plugin-mdx"
 
-const Blog = ({ children }) => (
+const Case = ({ children }) => (
   <div className={styles.content}>
     <MDXRenderer>{children}</MDXRenderer>
   </div>
 )
 
-export default Blog
+export default Case

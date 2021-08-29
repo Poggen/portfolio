@@ -3,8 +3,8 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import Container from "../components/container/container"
-import BlogContent from "../components/blog/BlogContent"
-import * as Styles from "../components/blog/blog.module.css"
+import CaseContent from "../components/casestudy/CaseContent"
+import * as Styles from "../components/casestudy/casestudy.module.css"
 
 class CaseStudyPostTemplate extends React.Component {
   render() {
@@ -22,8 +22,8 @@ class CaseStudyPostTemplate extends React.Component {
             {post.frontmatter.description}
           </p>
         </Container>
-        <BlogContent>{post.body}
-        </BlogContent>
+        <CaseContent>{post.body}
+        </CaseContent>
 
         <ul
           style={{
