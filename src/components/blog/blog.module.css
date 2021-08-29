@@ -1,6 +1,10 @@
+.excerpt {
+  font-size: var(--body-font-size);
+  padding-bottom: var(--spacing-small);
+ }
+
 .meta {
-  font-style: italic;
-  padding: var(--spacing-small) var(--spacing-small) 0 0;
+  font-size: var(--meta-font-size);
 }
 
 .content {
