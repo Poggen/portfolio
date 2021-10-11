@@ -1,7 +1,7 @@
 ---
 path: "2"
 date: 2021-08-14T16:14:42.935Z
-title: Learnings from building this site
+title: Some useful things I learned while building this site
 description: Gatsby, React, Netlify
 ---
 **Lorem ipsum**\
