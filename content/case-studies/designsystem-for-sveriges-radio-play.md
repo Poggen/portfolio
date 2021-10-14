@@ -1,6 +1,6 @@
 ---
 path: "3"
-date: 2020-07-04T17:18:30.008Z
+date: 2020-10-13T17:18:30.008Z
 title: Google Ventures site
 description: iOS, Android, Abstract
 ---
