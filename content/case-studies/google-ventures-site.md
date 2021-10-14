@@ -1,5 +1,5 @@
 ---
-path: "2"
+path: new-player-for-sveriges-radio
 date: 2021-10-11T17:38:27.509Z
 title: New player for Sveriges Radio
 description: Web, UI
