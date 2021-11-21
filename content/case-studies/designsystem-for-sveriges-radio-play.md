@@ -1,25 +1,25 @@
 ---
 path: "3"
-date: 2020-10-13T17:18:30.008Z
+date: 2020-07-01T17:18:30.008Z
 title: Google Ventures site
 description: Example 1, Example 2
 ---
 **Overview**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas maximus turpis ut ultricies vehicula. Aliquam sit amet scelerisque risus. Maecenas ligula justo, sollicitudin eget consectetur sed, vulputate sed turpis. Nullam non augue augue. Quisque vulputate mi et lacus aliquet rutrum. Nulla facilisi. Duis suscipit iaculis placerat. Nulla dapibus consequat justo non tempor.
+Google Ventures wanted a new site. Using material design as a foundation I helped brand designer Viktor Persson at Grafikwerket with all of the UI design for the site.
 
 **Problem**\
 \
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas maximus turpis ut ultricies vehicula. Aliquam sit amet scelerisque risus. Maecenas ligula justo, sollicitudin eget consectetur sed, vulputate sed turpis. Nullam non augue augue. Quisque vulputate mi et lacus aliquet rutrum. Nulla facilisi. Duis suscipit iaculis placerat. Nulla dapibus consequat justo non tempor.
+How does one create UI that let Google Ventures new look and feel standout with taking over
 
 **Process**\
 \
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas maximus turpis ut ultricies vehicula. Aliquam sit amet scelerisque risus. Maecenas ligula justo, sollicitudin eget consectetur sed, vulputate sed turpis. Nullam non augue augue. Quisque vulputate mi et lacus aliquet rutrum. Nulla facilisi. Duis suscipit iaculis placerat. Nulla dapibus consequat justo non tempor.
+Hej hej
 
 **Solution**\
 \
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas maximus turpis ut ultricies vehicula. Aliquam sit amet scelerisque risus. Maecenas ligula justo, sollicitudin eget consectetur sed, vulputate sed turpis. Nullam non augue augue. Quisque vulputate mi et lacus aliquet rutrum. Nulla facilisi. Duis suscipit iaculis placerat. Nulla dapibus consequat justo non tempor.
+Hej hej
 
 **Result**\
 \
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas maximus turpis ut ultricies vehicula. Aliquam sit amet scelerisque risus. Maecenas ligula justo, sollicitudin eget consectetur sed, vulputate sed turpis. Nullam non augue augue. Quisque vulputate mi et lacus aliquet rutrum. Nulla facilisi. Duis suscipit iaculis placerat. Nulla dapibus consequat justo non tempor.
+Hej hej
