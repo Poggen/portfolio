@@ -6,15 +6,15 @@ description: Example 1, Example 2
 ---
 **Overview**
 
-Google Ventures wanted a new site. Using material design as a foundation I helped brand designer Viktor Persson at Grafikwerket with all of the UI design for the site.
+In 2018/2019 I was tasked with taking Google Ventures new branding and create UI design for their site GV.com
 
-**Problem**\
+**Challenge**\
 \
-How does one create UI that let Google Ventures new look and feel standout with taking over
+Use the new look and feel created by brand design Viktor Persson and present GV and its portfolio companies in a delightful way.
 
 **Process**\
 \
-Hej hej
+An new element in the branding was "the slash"
 
 **Solution**\
 \
