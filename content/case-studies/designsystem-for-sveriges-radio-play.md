@@ -10,7 +10,7 @@ In 2018/2019 I helped my friends at Grafikwerket with their work for Google Vent
 
 **Challenge**\
 \
-To use the new look and feel created by brand design Viktor Persson and present GV and its portfolio companies. Each company is unique but how do you make them standout whilst presenting them on an equal level? And how do you make the new element "the slash" included in the UI?
+To use the new look and feel created by brand design Viktor Persson and present GV and its portfolio companies. Each company is unique but how do you make them standout whilst presenting them on an equal level? And how do you include the new element "the slash"?
 
 **Process**\
 \
