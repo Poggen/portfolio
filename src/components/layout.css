@@ -22,9 +22,9 @@
 
   --color-black: #121212;
   --color-blue: #0000FF;
-  --color-white: #FFFFFF;
-  --color-orange: #f39c12;
-  --color-yellow: #f1c40f;
+  --color-white: #FFFFF5;
+  --color-yellow: #ffaf49;
+  --color-bright-yellow: #ffc77d;
 }
 
 * {
@@ -62,11 +62,11 @@ body {
 }
 
 a {
-  color: var(--color-orange);
+  color: var(--color-yellow);
 }
 
 a:hover {
-  color: var(--color-yellow);
+  color: var(--color-bright-yellow);
 }
 
 img {
