@@ -23,8 +23,8 @@
   --color-black: #121E2A;
   --color-blue: #0000FF;
   --color-white: #FFFFF5;
-  --color-yellow: #0072C5;
-  --color-bright-yellow: #33A9FE;
+  --color-green: #1EB972;
+  --color-bright-green: #35DF91;
 }
 
 * {
@@ -62,11 +62,13 @@ body {
 }
 
 a {
-  color: var(--color-yellow);
+  color: var(--color-white);
+  text-underline-position: under;
+  text-decoration-color: var(--color-green);
 }
 
 a:hover {
-  color: var(--color-bright-yellow);
+  color: var(--color-bright-green);
 }
 
 img {
