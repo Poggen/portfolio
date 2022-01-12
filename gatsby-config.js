@@ -10,6 +10,7 @@ module.exports = {
     },
   },
   plugins: [
+    'gatsby-plugin-remove-serviceworker',
     `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-styled-components`,
     `gatsby-transformer-sharp`,
