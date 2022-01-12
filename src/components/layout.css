@@ -65,8 +65,8 @@ a {
   color: var(--color-white);
   text-underline-position: under;
   text-decoration-color: var(--color-green);
-  text-decoration-thickness: .4rem;
-  text-underline-offset: .2rem;
+  text-decoration-thickness: .3rem;
+  text-underline-offset: .1rem;
 }
 
 a:hover {
