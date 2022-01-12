@@ -26,6 +26,7 @@ class IndexPage extends React.Component {
           My specialities are User Interface Design, Interaction Design and Design Systems.
           I'm passionate about accessibility and late night coding.
         </TextPrimary>
+        {/* 
         <HeaderSecondary title="Case studies" />
         <TextPrimary>
           {caseStudiesPosts.map(({ node }, index) => {
@@ -46,6 +47,7 @@ class IndexPage extends React.Component {
             )
           })}
         </TextPrimary>
+        */} 
         <Contact />
       </Layout>
     )
