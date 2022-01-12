@@ -20,11 +20,11 @@
   --spacing-small: 2rem;
   --spacing-xsmall: 1rem;
 
-  --color-black: #121212;
+  --color-black: #121E2A;
   --color-blue: #0000FF;
   --color-white: #FFFFF5;
-  --color-yellow: #ffaf49;
-  --color-bright-yellow: #ffbd67;
+  --color-yellow: #1EB972;
+  --color-bright-yellow: #35DF91;
 }
 
 * {
