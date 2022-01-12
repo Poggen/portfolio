@@ -2,7 +2,7 @@ exports.onRenderBody = ({setBodyAttributes,}) => {
     
     setBodyAttributes({
       style: {
-        backgroundColor: '#121E2A',
+        backgroundColor: '#000000',
       },
     });
   }
