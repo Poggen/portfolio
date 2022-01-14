@@ -25,3 +25,7 @@
 .postmeta {
   margin-bottom: var(--spacing-small);
 }
+
+.content pre {
+  margin-bottom: var(--spacing-medium);
+}
