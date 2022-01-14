@@ -6,10 +6,18 @@ description: Design system
 ---
 In this blog post I'll describe how to get started with semantic naming of colors and why it's a pretty sweet thing.\
 \
-For this site I'm using a slight off-white as a text color, it's the primary color in the foreground. So instead of using "--colors-white" or "#FFFFF5" I'm using "foreground/primary". Pretty simple, right? \
+For this site I'm using a slight off-white as a text color, it's the primary color in the foreground. So instead of using "--color-white" or "#FFFFF5" I'm using "foreground/primary".
+
+```
+ --color-foreground-primary: #FFFFF5;
+```
+
 \
-There's a few more colors I'm using for this site like link colors and background so let's add them as well.
+Now lets add all of the colors I'm using.
 
-
-
-![](assets/semantic-1.png)
+```
+  --color-foreground-primary: #FFFFF5;
+  --color-foreground-secondary: #1EB972;
+  --color-foreground-tertiary: #35DF91;
+  --color-background-primary: #000000;
+```
