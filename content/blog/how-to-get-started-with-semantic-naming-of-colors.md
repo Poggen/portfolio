@@ -16,12 +16,12 @@ Lets start off in Figma where I create a new color style and name it "foreground
 
 I use a couple more colors on this site so I added them as color styles as well.
 
-![](assets/semantic1b.png)
+![](https://jakobmagnusson.se/semantic1b.png)
 
 We need to export the color styles in order to use them in code. For this I use the plugin [Design Tokens for Figma](https://www.figma.com/community/plugin/888356646278934516/Design-Tokens). With this plugin I can export not only colors but spacing, text, shapes and much more.
 
-![](assets/semantic1c.png)
+![](https://jakobmagnusson.se/semantic1c.png)
 
 In order to get it working just follow [the documentation](https://github.com/lukasoppermann/design-token-transformer#usage), its pretty straight forward. When you have forked the Design Token Transformer repo and enabled Github Actions you'll end up with some sweet looking CSS to use.
 
-![](assets/semantic1d.png)
+![](https://jakobmagnusson.se/semantic1d.png)
