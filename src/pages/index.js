@@ -37,6 +37,7 @@ class IndexPage extends React.Component {
             )
           })}
         </TextPrimary>
+                */} 
         <HeaderSecondary title="Blog" />
         <TextPrimary>
           {blogPosts.map(({ node }, index) => {
@@ -47,7 +48,6 @@ class IndexPage extends React.Component {
             )
           })}
         </TextPrimary>
-        */} 
         <Contact />
       </Layout>
     )
