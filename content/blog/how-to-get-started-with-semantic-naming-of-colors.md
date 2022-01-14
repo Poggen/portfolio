@@ -10,19 +10,18 @@ Instead of writing background "black" you write "primary background". And when y
 
 Using semantic naming of colors makes it easier to have a consistent design system that scales. It saves time when creating new components when colors explain their function.
 
-For this site I'm using a slight off-white as a text color, it's the primary color in the foreground. So instead of using "--color-white" or "#FFFFF5" I'm using "foreground/primary".
+Lets start off in Figma where I create a new color style and name it "foreground/primary".
 
-```
---color-foreground-primary: #FFFFF5;
-```
+![](assets/semantic1a.png)
 
-Now lets add all of the colors I'm using.
+I use a couple more colors on this site so I added them as color styles as well.
 
-```
-  --color-foreground-primary: #FFFFF5;
-  --color-foreground-secondary: #1EB972;
-  --color-foreground-tertiary: #35DF91;
-  --color-background-primary: #000000;
-```
+![](assets/semantic1b.png)
 
-Another block of text goes here
+We need to export the color styles in order to use them in code. For this I use the plugin [Design Tokens for Figma](https://www.figma.com/community/plugin/888356646278934516/Design-Tokens). With this plugin I can export not only colors but spacing, text, shapes and much more.
+
+![](assets/semantic1c.png)
+
+In order to get it working just follow [the documentation](https://github.com/lukasoppermann/design-token-transformer#usage), its pretty straight forward. When you have forked the Design Token Transformer repo and enabled Github Actions you'll end up with some sweet looking CSS to use.
+
+![](assets/semantic1d.png)
