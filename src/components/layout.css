@@ -20,11 +20,11 @@
   --spacing-small: 2rem;
   --spacing-xsmall: 1rem;
 
-  --color-black: #121E2A;
-  --color-blue: #0000FF;
-  --color-white: #FFFFF5;
-  --color-green: #1EB972;
-  --color-bright-green: #35DF91;
+  --color-foreground-primary: #FFFFF5;
+  --color-foreground-secondary: #1EB972;
+  --color-foreground-tertiary: #35DF91;
+  --color-background-primary: #000000;
+ 
 }
 
 * {
@@ -36,21 +36,21 @@
 
 html {
   font-size: var(--base-font-size);
-  color: var(--color-white);
+  color: var(--color-foreground-primary);
 }
 
 h1 {
-  font-size: var(--header-primary-size);
+  font-size: var(--color-foreground-primary);
   color: var(--color-white);
 }
 
 h2 {
-  font-size: var(--header-secondary-size);
+  font-size: var(--color-foreground-primary);
   color: var(--color-white);
 }
 
 .body-bg {
-  background-color: var(--color-black);
+  background-color: var(--color-background-primary);
 }
 
 body {
@@ -58,23 +58,22 @@ body {
   line-height: 1.4;
   -moz-osx-font-smoothing: grayscale;
   font-family: system-ui;
-  background-color: var(--color-black);
+  background-color: var(--color-background-primary);
 }
 
 a {
   color: var(--color-white);
   text-underline-position: under;
-  text-decoration-color: var(--color-green);
+  text-decoration-color: var(--color-foreground-secondary);
   text-decoration-thickness: .3rem;
   text-underline-offset: .1rem;
 }
 
 a:hover {
-  color: var(--color-bright-green);
+  color: var(--color-foreground-tertiary);
 }
 
 img {
   display: block;
   width: 100%;
 }
-
