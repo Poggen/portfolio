@@ -12,7 +12,7 @@ Using semantic naming of colors makes it easier to have a consistent design syst
 
 Lets start off in Figma where I create a new color style and name it "foreground/primary".
 
-![](assets/semantic1a.png)
+![](https://jakobmagnusson.se/assets/semantic1a.png)
 
 I use a couple more colors on this site so I added them as color styles as well.
 
