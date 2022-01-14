@@ -12,7 +12,7 @@ For this site I'm using a slight off-white as a text color, it's the primary col
 --color-foreground-primary: #FFFFF5;
 ```
 
-\n
+\
 Now lets add all of the colors I'm using.
 
 ```
@@ -21,3 +21,5 @@ Now lets add all of the colors I'm using.
   --color-foreground-tertiary: #35DF91;
   --color-background-primary: #000000;
 ```
+
+Another block
