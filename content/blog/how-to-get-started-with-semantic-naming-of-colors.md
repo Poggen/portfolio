@@ -12,7 +12,9 @@ For this site I'm using a slight off-white as a text color, it's the primary col
  --color-foreground-primary: #FFFFF5;
 ```
 
-  
+\
+\
+\
 Now lets add all of the colors I'm using.
 
 ```
