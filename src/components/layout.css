@@ -40,13 +40,13 @@ html {
 }
 
 h1 {
-  font-size: var(--color-foreground-primary);
-  color: var(--color-white);
+  font-size: var(--header-primary-size);
+  color: var(--color-foreground-primary);
 }
 
 h2 {
-  font-size: var(--color-foreground-primary);
-  color: var(--color-white);
+  font-size: var(--header-secondary-size);
+  color: var(--color-foreground-primary);
 }
 
 .body-bg {
