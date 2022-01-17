@@ -22,7 +22,6 @@
 
   --color-foreground-primary: #FFFFF5;
   --color-foreground-secondary: #1EB972;
-  --color-foreground-tertiary: #35DF91;
   --color-background-primary: #000000;
  
 }
@@ -70,7 +69,7 @@ a {
 }
 
 a:hover {
-  color: var(--color-foreground-tertiary);
+  color: var(--color-foreground-secondary);
 }
 
 img {
