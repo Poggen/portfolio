@@ -18,7 +18,7 @@ I use a couple more colors on this site so I added them as color styles as well.
 
 ![](https://jakobmagnusson.se/assets/semantic1b.png)
 
-<br />\
+\
 We need to export the color styles in order to use them in code. For this I use the plugin [Design Tokens for Figma](https://www.figma.com/community/plugin/888356646278934516/Design-Tokens). With this plugin I can export not only colors but spacing, text, shapes and much more.
 
 ![](https://jakobmagnusson.se/assets/semantic1c.png)
