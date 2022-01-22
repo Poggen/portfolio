@@ -22,8 +22,10 @@ Here we have our color scheme in Figma, they are also added as color styles. Let
 
 It's pretty simple to add a dark color scheme. Just add "/dark" and "/light" at the ending of each string for each color scheme.
 
-![](assets/semantic-5.png)
+![](https://www.jakobmagnusson.se/assets/semantic-5.png)
 
 And here's how it looks as color styles in Figma. So we have established tokens to be used when designing and they make it easier to maintain consistency in a design system. Pretty sweet? Now lets send these tokens to your developers so they can use them as variables. 
 
-![](assets/semantic-6.png)
+![](https://www.jakobmagnusson.se/assets/semantic-6.png)
+
+[Design Tokens](https://www.figma.com/community/plugin/888356646278934516/Design-Tokens) for Figma is a plugin that lets you export all kinds of fundamentals like colors, spacing and typography. I've set it up so it exports to a Github repo that uses Design Tokens Transformer
