@@ -1,6 +1,6 @@
 ---
 path: /how-to-get-started-with-semantic-naming-of-colors
-date: 2022-01-14T10:20:08.185Z
+date: 2022-01-16T10:20:08.185Z
 title: How to get started with semantic naming of colors
 description: Design system
 ---
@@ -20,4 +20,10 @@ Here we have our color scheme in Figma, they are also added as color styles. Let
 
 ![](https://www.jakobmagnusson.se/assets/semantic-4.png)
 
-It's pretty simple to add a dark color scheme. Just add "/dark" and "/light" for your color schemes. Its so simple
+It's pretty simple to add a dark color scheme. Just add "/dark" and "/light" at the ending of each string for each color scheme.
+
+![](assets/semantic-5.png)
+
+And here's how it looks as color styles in Figma. So we have established tokens to be used when designing and they make it easier to maintain consistency in a design system. Pretty sweet? Now lets send these tokens to your developers so they can use them as variables. 
+
+![](assets/semantic-6.png)
