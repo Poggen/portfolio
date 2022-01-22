@@ -15,3 +15,7 @@ Gatsby its a popular boilerplate, it gives you a great start when you want to bu
 Then I just wrote all of the frontend in React. Since its mostly styled with CSS and I used components it went rather fast, using the simple principle of Atomic Design. What took the most time was configuring the components to display the different GraphQL fields I needed.
 
 ![](https://jakobmagnusson.se/assets/site2.png)
+
+Lorem ipsum
+
+![](assets/site3.png)
