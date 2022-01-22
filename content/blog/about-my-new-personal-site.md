@@ -1,5 +1,5 @@
 ---
-path: things-i-learned-building-my-new-site
+path: /things-i-learned-building-my-new-site
 date: 2022-01-01T09:51:43.230Z
 title: Things I learned building my new site
 description: Portfolio
@@ -18,8 +18,6 @@ Then I just wrote all of the frontend in React. Since its mostly styled with CSS
 
 ![](https://jakobmagnusson.se/assets/site3.png)
 
-For building and deploying I used Netlify. Its super simple to hook up your Github repo and you can build both master and branches. As a last step I configured my DNS settings for the domain so it pointed towards Netlify.
+For building and deploying I used [Netlify](https://www.netlify.com/). Its super simple to hook up your Github repo and you can build both master and branches. As a last step I configured my DNS settings for the domain so it pointed towards Netlify.<br />
 
-Thats it, three resources I found incredibly useful. If you're interested [here's a link](https://github.com/jakobmagnus/portfolio) to the repo of this site.
-
-Thanks a lot [Oscar Hillestad](https://github.com/Poggen) and [Prakash](https://github.com/prakashdraws) whom helped me out when I got stuck :)
+If you're interested [here's a link](https://github.com/jakobmagnus/portfolio) to the repo of this site. Thanks a lot [Oscar Hillestad](https://github.com/Poggen) and [Prakash](https://github.com/prakashdraws) whom helped me out when I got stuck :)
