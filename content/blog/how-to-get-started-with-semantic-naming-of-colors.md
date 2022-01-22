@@ -13,3 +13,9 @@ A great thing benefit with design systems is that you have one source of truth. 
 Here's my example design I'll use, as you can see its just a background with text and underline for now.
 
 ![](assets/semantic-2.png)
+
+The text color is the first color in the foreground, so we name it "foreground/primary". Then we have the underline thats the second color so we name it "foreground/secondary. And then we also have a background color that we call "background/primary".
+
+![](assets/semantic-3.png)
+
+Here we have our color scheme in Figma, they are also added as color styles.
