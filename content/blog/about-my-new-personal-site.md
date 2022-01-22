@@ -1,17 +1,17 @@
 ---
-path: heres-my-new-site
+path: things-i-learned-building-my-new-site
 date: 2022-01-01T09:51:43.230Z
-title: Here's my new site
+title: Things I learned building my new site
 description: Portfolio
 ---
 Welcome to my new site. As a designer interested in code I decided to try and build a site on my own this time. I'd like to share a few useful resources I used. 
 
-I jumped into React by taking courses by Meng Too at [Design+Code.](https://designcode.io/) 
+I've been interested in React for quite a while and started off by taking courses by Meng Too at [Design+Code.](https://designcode.io/) I find his courses easy to follow since he comes with a design background and most of the chapters is building things that actually work. 
 
 ![](https://jakobmagnusson.se/assets/site1.png)
 
-Gatsby its a popular boilerplate, it gives you a great start when you want to build web. For this site I used a template that gave me a CMS for my posts straight away. 
+Gatsby its a popular boilerplate, it gives you a great start when you want to build web. I used a template for this site that gives me a CMS straight away. 
 
-Then I just wrote all of the frontend in React. Since its mostly styled with CSS and I used components it went rather fast, using the simple principle of Atomic Design. What took the most time was configuring the components to display the different GraphQL fields I needed. Luckily I have some talented friends that helped me out when I got stuck! 
+Then I just wrote all of the frontend in React. Since its mostly styled with CSS and I used components it went rather fast, using the simple principle of Atomic Design. What took the most time was configuring the components to display the different GraphQL fields I needed.
 
 ![](https://jakobmagnusson.se/assets/site2.png)
