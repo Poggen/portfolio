@@ -16,6 +16,8 @@ Then I just wrote all of the frontend in React. Since its mostly styled with CSS
 
 ![](https://jakobmagnusson.se/assets/site2.png)
 
-Lorem ipsum
+For building and deploying I used Netlify. Its super simple to hook up your Github repo and you can build both master and branches. As a last step I configured my DNS settings for the domain so it pointed towards Netlify.
 
 ![](https://jakobmagnusson.se/assets/site3.png)
+
+Thats it, three resources I found incredibly useful. Thanks a lot [Oscar Hillestad](https://github.com/Poggen) and [Prakash](https://github.com/prakashdraws) whom helped me out when I got stuck :)
