@@ -1,7 +1,7 @@
 ---
 path: /things-i-learned-building-my-new-site
 date: 2022-01-03T09:51:43.230Z
-title: Things I learned building my new site
+title: Things I learned while building my new site
 description: Portfolio
 ---
 Welcome to my new site. As a designer interested in code I decided to try and build a site on my own this time. I'd like to share a few useful resources I used. 
