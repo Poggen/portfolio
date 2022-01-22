@@ -5,6 +5,7 @@
 
 .meta {
   font-size: var(--meta-font-size);
+  font-style: italic;
 }
 
 .content {
