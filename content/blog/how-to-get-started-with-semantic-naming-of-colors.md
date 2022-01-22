@@ -14,8 +14,8 @@ Here's my example design I'll use, as you can see its just a background with tex
 
 ![](https://www.jakobmagnusson.se/assets/semantic-2.png)
 
-The text color is the first color in the foreground, so we name it "foreground/primary". Then we have the underline thats the second color so we name it "foreground/secondary. And then we also have a background color that we call "background/primary".
+Text color is the first color in the foreground, so we name it "foreground/primary". Underline color is the second color in the foreground so we name it "foreground/secondary. And then we have a background color that we call "background/primary".
 
 ![](https://www.jakobmagnusson.se/assets/semantic-3.png)
 
-Here we have our color scheme in Figma, they are also added as color styles.
+Here we have our color scheme in Figma, they are also added as color styles. Lets add a dark color scheme while are at it.
