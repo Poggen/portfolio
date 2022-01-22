@@ -19,6 +19,7 @@ class IndexPage extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <Seo
+          title="Product Designer Jakob Magnusson"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
         <TextPrimary>Product Designer at Sveriges Radio. I design user-friendly products and services.
