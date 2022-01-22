@@ -20,7 +20,7 @@
 
 .content img {
   max-width: 720px;
-  margin-bottom: var(--spacing-medium)
+  margin-top: var(--spacing-medium);
 }
 
 .postmeta {
