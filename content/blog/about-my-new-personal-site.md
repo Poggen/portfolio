@@ -6,7 +6,7 @@ description: Portfolio
 ---
 Welcome to my new site. As a designer interested in code I decided to try and build a site on my own this time. I'd like to share a few useful resources I used. 
 
-I've been interested in React for quite a while and started off by taking courses by Meng Too at [Design+Code.](https://designcode.io/) I find his courses easy to follow since he comes with a design background and most of the chapters is building things that actually work. 
+I've been interested in React for quite a while and started off by taking courses by Meng Too at [Design+Code.](https://designcode.io/) I find his courses easy to follow since he has a design background and most of the chapters is about building things that actually work. 
 
 ![](https://jakobmagnusson.se/assets/site1.png)
 
