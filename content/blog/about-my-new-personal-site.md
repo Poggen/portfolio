@@ -20,4 +20,6 @@ For building and deploying I used Netlify. Its super simple to hook up your Gith
 
 ![](https://jakobmagnusson.se/assets/site3.png)
 
-Thats it, three resources I found incredibly useful. Thanks a lot [Oscar Hillestad](https://github.com/Poggen) and [Prakash](https://github.com/prakashdraws) whom helped me out when I got stuck :)
+Thats it, three resources I found incredibly useful. If you're interested [here's a link](https://github.com/jakobmagnus/portfolio) to the repo of this site.\
+\
+Thanks a lot [Oscar Hillestad](https://github.com/Poggen) and [Prakash](https://github.com/prakashdraws) whom helped me out when I got stuck :)
