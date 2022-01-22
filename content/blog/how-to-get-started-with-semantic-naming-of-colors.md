@@ -28,8 +28,10 @@ And here's how it looks as color styles in Figma. Now we have established tokens
 
 ![](https://www.jakobmagnusson.se/assets/semantic-6.png)
 
-[Design Tokens](https://www.figma.com/community/plugin/888356646278934516/Design-Tokens) for Figma is a plugin that lets you export all kinds of fundamentals like colors, spacing and typography. When you export from the plugin the colors are not ready to be used. We need to use [Design Tokens Transformer](https://github.com/lukasoppermann/design-token-transformer) in order to get variables we can use for preferred programming language. 
+[Design Tokens](https://www.figma.com/community/plugin/888356646278934516/Design-Tokens) for Figma is a plugin that lets you export all kinds of tokens like colors, spacing and typography to code. It's a simple way to have Figma as your source of truth for the design system. 
 
 ![](https://www.jakobmagnusson.se/assets/semantic-7.png)
 
-Lorem ipsum
+We need to use [Design Tokens Transformer](https://github.com/lukasoppermann/design-token-transformer) in order to have the variables useable for each programming language we want to use it for. My example with a light and dark color scheme is ready to be used.
+
+And that's it, I hope you found the idea of using semantic naming of colors useful!
