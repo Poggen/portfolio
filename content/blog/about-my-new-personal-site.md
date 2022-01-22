@@ -18,4 +18,4 @@ Then I just wrote all of the frontend in React. Since its mostly styled with CSS
 
 Lorem ipsum
 
-![](assets/site3.png)
+![](https://jakobmagnusson.se/assets/site3.png)
