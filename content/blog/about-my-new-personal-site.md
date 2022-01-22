@@ -1,5 +1,5 @@
 ---
-path: things-i-learned-building-my-new-site
+path: /things-i-learned-building-my-new-site
 date: 2022-01-01T09:51:43.230Z
 title: Things I learned building my new site
 description: Portfolio
