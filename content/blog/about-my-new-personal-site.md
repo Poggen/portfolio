@@ -11,7 +11,7 @@ B/ I didn't know anything about React\
 \
 I jumped into React by taking courses by Meng Too at [Design+Code.](https://designcode.io/) Meng is pedagogic and you build things out of a designers perspective, so I found it easy to follow.
 
-![](assets/site1.png)
+![](https://jakobmagnusson.se/assets/site1.png)
 
 
 
@@ -19,4 +19,4 @@ Gatsby its a popular boilerplate, it gives you a great start when you want to bu
 
 Then I just wrote all of the frontend in React. Since its mostly styled with CSS and I used components it went rather fast, using the simple principle of Atomic Design. What took the most time was configuring the components to display the different GraphQL fields I needed. Luckily I have some talented friends that helped me out when I got stuck! 
 
-![](assets/site2.png)
+![](https://jakobmagnusson.se/assets/site2.png)
