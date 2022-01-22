@@ -16,10 +16,11 @@ I've been interested in React for quite a while and started off by taking course
 [Gatsby](https://www.gatsbyjs.com/)\
 Frontend framework that gives you a head start when building web. For this project I used a template that gave me a working start page and CMS, pretty convenient!
 
-Then I just wrote all of the frontend in React. Since its mostly styled with CSS and I used components it went rather fast, using the simple principle of Atomic Design. What took the most time was configuring the components to display the different GraphQL fields I needed.
+Then I just wrote the frontend in React. Since its styled with CSS and I used components it went rather fast, using the simple principle of Atomic Design. What took the most time was configuring the components to display the different GraphQL fields I needed.
 
 ![](https://jakobmagnusson.se/assets/site3.png)
 
-For building and deploying I used [Netlify](https://www.netlify.com/). Its super simple to hook up your Github repo and you can build both master and branches. As a last step I configured my DNS settings for the domain so it pointed towards Netlify.<br />
+[Netlify](https://www.netlify.com/)\
+For building and deploying I used Netlify. [](https://www.netlify.com/)It's super simple to hook up your Github repo and you can build both master and branches. As a last step I configured my DNS settings for the domain so it pointed towards Netlify.<br />
 
 If you're interested [here's a link](https://github.com/jakobmagnus/portfolio) to the repo of this site. Thanks a lot [Oscar Hillestad](https://github.com/Poggen) and [Prakash](https://github.com/prakashdraws) whom helped me out when I got stuck :)
