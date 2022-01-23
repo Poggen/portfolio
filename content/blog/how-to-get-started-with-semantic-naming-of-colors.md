@@ -48,7 +48,7 @@ And here's how it looks as color styles in Figma. We have established a conventi
 
 We need to use [Design Tokens Transformer](https://github.com/lukasoppermann/design-token-transformer) to transform our exported tokens into working variables for each programming language. There's a few steps in order to get it working, the documentation is pretty straight forward though. 
 
-Our tokens are now formatted with the right syntax for CSS. If you inspect this page you'll see I'm using these tokens, I just added the repo as a dependency to the repo of this site. Pretty neat!
+Our tokens are now formatted with the right syntax for CSS ready to be used.
 <br />
 
 That was the final step, I hope you found this blog post useful.
