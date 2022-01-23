@@ -31,6 +31,6 @@ Use well established patterns for information hierarchy and navigation. Don't re
 **3/ Guide the user**
 
 Lead the user with clear visual cues. On a landing page just use one primary CTA for example signup and one secondary CTA for example signup.
-< /br>
+<br />
 
-In summary: design things that make the user think less in order to complete tasks and they'll be happy.
+In summary - Design things that make the user think less in order to complete tasks and they'll be happy.
