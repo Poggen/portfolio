@@ -14,4 +14,4 @@ When I design I like to think of three simple principles for less cognitive load
 
 2/ Re-use existing patterns
 
-3/
+3/ Less steps
