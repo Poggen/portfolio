@@ -12,9 +12,7 @@ Our ability to use for example a site is slowed down if there's a lot of informa
 
 Cognitive load is how much mental capacity is needed to use that site and in the example above the cognitive load was high. Sites with low cognitive load is usually easy to navigate and completing tasks doesn't demand much thinking. Most things we use without thinking like a microwave has a low cognitive load. 
 
-As a designer I'm not an expert in human brains, even though I wish I was. But I do know some limits and can design solutions that accommodates most users capabilities.
-
-So here's three principles how to minimise cognitive load in design.
+Want to have happy users? Here's three principles how to minimise cognitive load in design.
 
 ![](https://www.jakobmagnusson.se/assets/cognitive-2.png)
 
