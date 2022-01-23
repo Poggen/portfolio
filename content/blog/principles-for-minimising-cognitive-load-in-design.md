@@ -12,18 +12,18 @@ When I design I like to think of three simple principles for less cognitive load
 
 
 
-1/ Remove distractions
+**1/ Remove distractions**
 
 Remove visual things that slow the user down. So less modals asking for permission, not relevant links, images not related taking over, CTA-bars etc.
 
 
 
-2/ Re-use existing patterns
+**2/ Re-use existing patterns**
 
 Use well established patterns for information hierarchy and navigation. Don't re-invent patterns, assume the user has knowledge of the most common ones and design around them. No surprises.
 
 
 
-3/ Less steps
+**3/ Less steps**
 
 For completing a task just use the bare minimum of steps. Can this signup be two steps instead of four? Great! Can we remove some fields that is not relevant? Also great!
