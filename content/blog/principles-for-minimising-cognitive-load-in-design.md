@@ -30,4 +30,7 @@ Use well established patterns for information hierarchy and navigation. Don't re
 
 **3/ Guide the user**
 
-Contextual onboarding is a great example, highlight where the function is located in the app so the user can find it straight away.
+Lead the user with clear visual cues. On a landing page just use one primary CTA for example signup and one secondary CTA for example signup.
+< /br>
+
+In summary: design things that make the user think less in order to complete tasks and they'll be happy.
