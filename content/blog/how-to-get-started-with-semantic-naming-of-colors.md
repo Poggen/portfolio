@@ -1,6 +1,6 @@
 ---
 path: /how-to-get-started-with-semantic-naming-of-colors
-date: 2021-12-19T10:20:08.185Z
+date: 2022-01-16T10:20:08.185Z
 title: How to get started with semantic naming of colors
 description: Design system
 ---
