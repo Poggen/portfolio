@@ -1,5 +1,5 @@
 ---
-path: /a-bloated-internet-and-cognitive-load
+path: /principles-for-minimising-cognitive-load-in-design
 date: 2022-01-22T12:44:31.515Z
 title: Principles for minimising cognitive load in design
 description: Design
