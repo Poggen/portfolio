@@ -14,19 +14,19 @@ As a designer I'm not an expert in human brains, even though I wish I was. But I
 
 So here's three simple principles how to minimise cognitive load in design.
 
-
+![](https://www.jakobmagnusson.se/assets/cognitive-1.png)
 
 **1/ Remove distractions**
 
 Remove visual obstacles that slow the user down. Less modals asking for permission, not relevant links, none related images, CTA-bars etc. Just show the bare minimum a user needs to complete a task.
 
-
+![](https://www.jakobmagnusson.se/assets/cognitive-2.png)
 
 **2/ Re-use existing patterns**
 
 Use well established patterns for information hierarchy and navigation. Don't re-invent patterns, assume the user has knowledge of the most common ones and design around them. Unexpected patterns lead to confusion.
 
-
+![](https://www.jakobmagnusson.se/assets/cognitive-3.png)
 
 **3/ Guide the user**
 
