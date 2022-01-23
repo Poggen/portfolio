@@ -18,16 +18,16 @@ So here's three simple principles how to minimise cognitive load in design.
 
 **1/ Remove distractions**
 
-Remove visual obstacles that slow the user down. So less modals asking for permission, not relevant links, images not related taking over, CTA-bars etc.
+Remove visual obstacles that slow the user down. Less modals asking for permission, not relevant links, none related images, CTA-bars etc. Just show the bare minimum a user needs to complete a task.
 
 
 
 **2/ Re-use existing patterns**
 
-Use well established patterns for information hierarchy and navigation. Don't re-invent patterns, assume the user has knowledge of the most common ones and design around them. No surprises.
+Use well established patterns for information hierarchy and navigation. Don't re-invent patterns, assume the user has knowledge of the most common ones and design around them. Unexpected patterns lead to confusion.
 
 
 
-**3/ Less steps**
+**3/ Guide the user**
 
-For completing a task just use the bare minimum of steps. Can this signup be two steps instead of four? Great! Can we remove some fields that is not relevant? Also great!
+Contextual onboarding is a great example, highlight where the function is located in the app so the user can find it straight away.
