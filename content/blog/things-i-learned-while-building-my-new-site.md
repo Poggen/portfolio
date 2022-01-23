@@ -10,15 +10,15 @@ Welcome to my new site. As a designer interested in code I decided to try and bu
 
 [Design+Code](https://designcode.io/)
 
-I've been interested in React for quite a while and started off by taking courses by Meng Too at Design+Code. I find his courses easy to follow since he has a design background and most of the chapters is about building things that actually work. 
+I've been interested in React for quite a while and decided to take some courses by Meng Too at Design+Code. I find his courses easy to follow since he has a design background and most of the chapters is about building things that actually work. 
 
 ![](https://jakobmagnusson.se/assets/site2.png)
 
 [Gatsby](https://www.gatsbyjs.com/)
 
-Frontend framework that gives you a head start when building web. For this project I used a template that gave me a working start page and CMS, pretty convenient!
+Frontend framework that gives you a head start when building web. For this project I used a template that gave me a working start page and CMS, pretty sweet.
 
-Then I just wrote the frontend in React. Since its styled with CSS and I used components it went rather fast, using the simple principle of Atomic Design. What took the most time was configuring the components to display the different GraphQL fields I needed.
+Then I wrote the frontend in React. Since it's styled with CSS and I used components based design it went rather fast. What took the most time was configuring the components to display the different GraphQL fields I needed.
 
 ![](https://jakobmagnusson.se/assets/site3.png)
 
