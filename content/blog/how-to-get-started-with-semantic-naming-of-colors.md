@@ -8,33 +8,33 @@ In this blog post I'll describe how to get started with semantic naming of color
 
 ![](https://www.jakobmagnusson.se/assets/semantic-1.png)
 
-**1/ Create an example design**
+**1/ Example design**
 
 Here's our example design, as you can see its just a text with underline and a background.
 
 ![](https://www.jakobmagnusson.se/assets/semantic-2.png)
 
-**2/ Example design with semantic naming**
+**2/ Semantic naming of example design**
 
-Text color is the first color in the foreground, so we name it "foreground/primary". Underline color is the second color in the foreground so we name it "foreground/secondary. And we name the background color "background/primary".
+The text color is the first color in the foreground, so it's "foreground/primary". Underline color is the second color in the foreground it's "foreground/secondary. And the background color is "background/primary" since there's only one.
 
 ![](https://www.jakobmagnusson.se/assets/semantic-3.png)
 
-**3/ Visualise and add as color styles in Figma**
+**3/ Visualise the color scheme**
 
-Now that we have established our tokens let's add them as color styles in Figma. Presenting colors as cards with their token is an easy way to have them in a design systems library.
+Now that we have established a naming convention let's add the color scheme as cards in Figma. It gives everyone an easy way to overlook the "one source of truth" for colors in the design system library.
 
 ![](https://www.jakobmagnusson.se/assets/semantic-4.png)
 
 **4/ Add a dark color scheme**
 
-The dark mode of the color scheme is just an inverted version of the light color scheme. Just a second row of cards for the dark scheme and add "/dark" and "/light" at the ending of the string for each color scheme.
+The dark mode of the color scheme is just an inverted version of the light color scheme. Add a second row of cards for the dark scheme and "/dark" and "/light" at the ending of the string for each color scheme.
 
 ![](https://www.jakobmagnusson.se/assets/semantic-5.png)
 
-**5/ Inspect the color styles in Figma**
+**5/ Add as color styles in Figma**
 
-And here's how it looks as color styles in Figma. We have established a convention of working with colors in Figma that is easy to maintain. This example design is with six colors but I've used it for professional projects with 30+ color using the same principles.
+Go ahead and add both of your new colors schemes as color styles in Figma. It should look something like this when finished. 
 
 ![](https://www.jakobmagnusson.se/assets/semantic-6.png)
 
@@ -46,7 +46,7 @@ And here's how it looks as color styles in Figma. We have established a conventi
 
 **7/ Make the tokens useable**
 
-We need to use [Design Tokens Transformer](https://github.com/lukasoppermann/design-token-transformer) to transform our exported tokens into working variables for each programming language. There's a few steps in order to get it working, the documentation is pretty straight forward though. 
+We need to use [Design Tokens Transformer](https://github.com/lukasoppermann/design-token-transformer) to transform our exported tokens into working variables for each programming language. There's a few steps in order to get it working, the documentation is pretty straight forward.
 
 Our tokens are now formatted with the right syntax for CSS ready to be used.
 <br />
