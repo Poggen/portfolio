@@ -40,4 +40,6 @@ Lead the user with clear visual cues. On a landing page just use one primary CTA
 
 <br />
 
+#### In conclusion
+
 Following these three simple tips makes users think less. And when a user has to think less it's easier for them to complete their goal. And if its easy to complete goals then users tend to be happy. And everybody likes happy users.
