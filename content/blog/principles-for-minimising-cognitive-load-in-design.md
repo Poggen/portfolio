@@ -16,7 +16,7 @@ Users have a misson when they visit your site and its usually to complete a task
 
 <br />
 
-### Principles for minimising cognitive load in design
+### How to minimise cognitive load
 
 Lorem ipsum about the tips
 
