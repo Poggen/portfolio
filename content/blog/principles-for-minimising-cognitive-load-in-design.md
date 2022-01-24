@@ -14,15 +14,17 @@ Cognitive load is how much mental capacity is needed to use that site and in the
 
 ### Three tips for minimising cognitive load
 
-Remove distractions
+Lorem ipsum about the tips
+
+#### Remove distractions
 
 Remove visual obstacles that slow the user down. Less modals asking for permission, not relevant links, none related images, CTA-bars etc. Just show the bare minimum a user needs to complete a task.<br />
 
-Re-use existing patterns
+#### Re-use existing patterns
 
 Use well established patterns for information hierarchy and navigation. Don't re-invent patterns, assume the user has knowledge of the most common ones and design around them. Unexpected patterns lead to confusion.<br />
 
-Guide the user
+#### Guide the user
 
 Lead the user with clear visual cues. On a landing page just use one primary CTA for example signup and one secondary CTA for example signup.
 <br />
