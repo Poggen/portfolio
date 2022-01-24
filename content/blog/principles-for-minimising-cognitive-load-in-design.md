@@ -6,15 +6,17 @@ description: Design
 ---
 ### What is cognitive load
 
-When we design product and services we design it for us humans. Our brains have a limited span of attention and a limited capacity to process new information. The opposite is a computer with almost endless capabilities. 
-
-Our ability to use for example a site is slowed down if there's a lot of information to be processed and navigation is hard to figure out. And we get frustrated and leave the site when we can't complete a task or find what we are looking for.
-
-Cognitive load is how much mental capacity is needed to use that site and in the example above the cognitive load was high. Sites with low cognitive load is usually easy to navigate and completing tasks doesn't demand much thinking. Most things we use without thinking like a microwave has a low cognitive load. 
+When we visit a site there's a lot of things to keep track of. Like the layout, where buttons are located, fonts and the reason why we visited the site in the first place. These are all things we need to learn and keep in our brains working memory. The effort it takes to learn all of these things is cognitive load.
 
 <br />
 
-### Three tips for minimising cognitive load
+### Why it should be minimised
+
+Users have a misson when they visit your site and its usually to complete a task. By trying to minimise cognitive load we make it easier for users to complete their task. To completely remove cognitive load in user interface design is probably not possible, even just a black screen with one button demands some cognitive load.
+
+<br />
+
+### Principles for minimising cognitive load in design
 
 Lorem ipsum about the tips
 
