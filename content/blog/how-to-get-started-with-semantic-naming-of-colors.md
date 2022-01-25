@@ -4,7 +4,7 @@ date: 2022-01-16T10:20:08.185Z
 title: How to get started with semantic naming of colors
 description: Design system
 ---
-In this blog post I'll describe how to get started with semantic naming of colors and the benefits of working with it.
+In this blog post I'll describe how to get started with semantic naming of colors and the benefits of working with it. Semantic naming of colors is using "foregroundPrimary" and not using "green", now let's dive into how you apply it.
 
 ![](https://www.jakobmagnusson.se/assets/semantic-1.png)
 
@@ -22,7 +22,7 @@ The text color is the first color in the foreground, so it's "foreground/primary
 
 **Visualise the color scheme**
 
-Now that we have established a naming convention let's add the color scheme as cards in Figma. It gives everyone an easy way to overlook the "one source of truth" for colors in the design system library.
+Now that we have established a naming convention let's add the color scheme as cards in Figma. It gives everyone an easy way to overview the "one source of truth" for colors in the design system library.
 
 ![](https://www.jakobmagnusson.se/assets/semantic-4.png)
 
