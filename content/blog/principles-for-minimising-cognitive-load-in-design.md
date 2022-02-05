@@ -1,18 +1,18 @@
 ---
 path: /principles-for-minimising-cognitive-load-in-design
-date: 2022-01-22T12:44:31.515Z
+date: 2022-02-05T12:44:31.515Z
 title: Principles for minimising cognitive load in design
 description: Design
 ---
 ### What is cognitive load
 
-When we visit a site there's a lot of things to keep track of. Like the layout, where buttons are located, fonts and the reason why we visited the site in the first place. These are all things we need to learn and keep in our brains working memory. The effort it takes to learn all of these things is cognitive load.
+When we visit a site there's a lot of things for our brain to learn in order to successfully complete what we set out to do. Like where buttons, text and images are located. What kind of information is presented and how much of it that is relevant. These are all things we need to learn and keep in our brains working memory. The effort it takes to learn all of these things is cognitive load.
 
 <br />
 
 ### Why it should be minimised
 
-Users have a misson when they visit your site and its usually to complete a task. By trying to minimise cognitive load we make it easier for users to complete their task. To completely remove cognitive load in user interface design is probably not possible, even just a black screen with one button demands some cognitive load.
+Users have a misson when they visit a site and it's usually to complete a task. By trying to minimise cognitive load we make it easier for users to complete their task. To completely remove cognitive load in user interface design is probably not possible, even just a black screen with one button will generate cognitive load.
 
 <br />
 
