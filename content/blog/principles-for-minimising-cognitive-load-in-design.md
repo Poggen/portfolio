@@ -54,4 +54,4 @@ Give the user the bare minimum of choices in order to complete a task. When a us
 
 #### \-
 
-That's a few principles I find useful in order to minimise cognitive load. I hope you find them useful too!
+Using these principles has helped me a lot, I hope you find them useful too.
