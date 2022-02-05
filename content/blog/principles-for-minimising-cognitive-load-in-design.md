@@ -16,7 +16,7 @@ Users have a misson when they visit a site and it's usually to complete a task. 
 
 <br />
 
-### How to minimise cognitive load
+### Useful design principles
 
 I've tried to summarise principles to use for minimising cognitive load in user interface design. It's easy to use as checklist.
 
@@ -36,10 +36,16 @@ Use well established patterns for information hierarchy and navigation. Don't re
 
 #### Guide the user
 
-Lead the user with clear visual cues. On a landing page just use one primary CTA for example "Signup" and one secondary CTA for example "Login".
+Lead the user with clear visual cues. On a landing page just use one primary CTA for example "Signup" and one secondary CTA for example "Login". If needed use contextual onboarding to highlight new features, great example is the one for [Chromecast.](https://developers.google.com/cast/docs/design_checklist/cast-button#prompting) 
+
+<br />
+
+#### Increase readability
+
+Aim for text to be easy to read. Internet is full of easy to read fonts, pick one of them instead of one that looks visually ascetic. Bump up the font size and use a type system like [Materials Designs](https://material.io/design/typography/the-type-system.html#type-scale) to make it scale easily. Avoid text on images, even if you use a gradient chances are it's unnecessary hard to read.
 
 <br />
 
 #### \-
 
-Following these three simple tips makes users think less. And when a user has to think less it's easier for them to complete their goal. And if it's easy to complete goals then users tend to be happy. And everybody likes happy users.
+That's three principles for minimising cognitive load. I hope you find them useful!
