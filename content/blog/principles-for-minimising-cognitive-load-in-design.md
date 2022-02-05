@@ -6,7 +6,7 @@ description: Design
 ---
 ### What is cognitive load
 
-When visiting for example a site there's a lot of things for our brain to learn in order to successfully complete what we set out to do. Like where buttons, text and images are located. What kind of information is presented and how much of it that is relevant. These are all things we need to learn and keep in our brains working memory. The effort it takes to learn all of these things is cognitive load.
+When visiting for example a site to complete a task there is things for our brain to learn. Like where buttons, text and images are located. What kind of information is presented and how much of it that is relevant. These are all things we need to learn and keep in our brains working memory. The effort it takes to learn all of these things is cognitive load.
 
 <br />
 
