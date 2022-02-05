@@ -18,13 +18,13 @@ Users have a misson when they visit a site and it's usually to complete a task. 
 
 ### How to minimise cognitive load
 
-Lorem ipsum about the tips
+I've tried to summarise principles to use for minimising cognitive load in user interface design. It's easy to use as checklist.
 
 <br />
 
 #### Remove distractions
 
-Remove visual obstacles that slow the user down. Less modals asking for permission, not relevant links, none related images, CTA-bars etc. Just show the bare minimum a user needs to complete a task.
+Remove visual obstacles that slow the user down. Things that doesn't help the user complete tasks should be added with care. Images should communicate what text says, buttons lead to logical places and modals asking for permissions should be kept at a bare minimum. And does the chatbot really need be sticky in the right corner?
 
 <br />
 
@@ -36,10 +36,10 @@ Use well established patterns for information hierarchy and navigation. Don't re
 
 #### Guide the user
 
-Lead the user with clear visual cues. On a landing page just use one primary CTA for example signup and one secondary CTA for example signup.
+Lead the user with clear visual cues. On a landing page just use one primary CTA for example "Signup" and one secondary CTA for example "Login".
 
 <br />
 
 #### \-
 
-Following these three simple tips makes users think less. And when a user has to think less it's easier for them to complete their goal. And if its easy to complete goals then users tend to be happy. And everybody likes happy users.
+Following these three simple tips makes users think less. And when a user has to think less it's easier for them to complete their goal. And if it's easy to complete goals then users tend to be happy. And everybody likes happy users.
