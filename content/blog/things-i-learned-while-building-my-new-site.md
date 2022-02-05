@@ -27,4 +27,6 @@ Then I wrote the frontend in React. Since it's styled with CSS and I used compon
 For building and deploying I used Netlify. [](https://www.netlify.com/)It's super simple to hook up your Github repo and you can build both master and branches. As a last step I configured my DNS settings for the domain so it pointed towards Netlify.
 <br />
 
+#### \-
+
 Thanks a lot [Oscar Hillestad](https://github.com/Poggen) and [Prakash](https://github.com/prakashdraws) for helping me out.
