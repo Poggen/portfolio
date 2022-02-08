@@ -4,7 +4,7 @@ date: 2022-02-08T09:49:41.794Z
 title: Simple solution for SSR flickering
 description: SSR
 ---
-This is a simple solution for background that is flickering. For example you have a site with black background and when the site is loaded you get a white flash. That's because your browser doesn't know what background color is going to be loaded. 
+This is a simple solution if your background color is flickering when using SSR. For example you have a site with black background color and when the site is loaded you get a white flash. That's because your browser doesn't know the background color is before the site is built.
 
 So the problem is general and the solution is pretty specific. I use Gatsby and had this problem since I have a black background color. 
 
@@ -20,3 +20,5 @@ exports.onRenderBody = ({setBodyAttributes,}) => {
     });
   }
 ```
+
+By adding this code the background color is set before your site is built, so no more flickering.
