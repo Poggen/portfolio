@@ -10,7 +10,7 @@ Welcome to my new site. As a designer interested in code I decided to try and bu
 
 [Design+Code](https://designcode.io/)
 
-I've been interested in React for quite a while and decided to take some courses by Meng Too at Design+Code. I find his courses easy to follow since he has a design background and most of the chapters is about building things that actually work. 
+I've been interested in React for quite some time and decided to courses by Meng Too at Design+Code. I find his courses easy to follow since he has a design background and most of the chapters is about building things that actually work. 
 
 ![](https://jakobmagnusson.se/assets/site2.png)
 
