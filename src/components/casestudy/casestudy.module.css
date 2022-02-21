@@ -6,7 +6,7 @@
   margin: 0 auto;
   max-width: var(--container-width);
   padding: 0 var(--spacing-xsmall);
-
+  margin-top: var(--spacing-medium);
 }
 
 .content > * + * {
