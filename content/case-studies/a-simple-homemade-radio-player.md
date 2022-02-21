@@ -24,8 +24,8 @@ The biggest challenge was to make it as easy as possible for the user to get sta
 
 ### Solution
 
-I choosed to make the simples radio player possible, when you tap a icon of a channel the channel starts playing and when you tap again it stops playing. I wrote it in React, it runs on Netlify and Gatsby. I added a simple audio player as NPM package and created re-useable components for channel icons.
+I choose to make the simples radio player possible, when you tap an icon of a channel the channel starts playing and when you tap again it stops playing. I wrote it in React, it runs on Netlify and Gatsby. I added a simple audio player as NPM package and created re-useable components for channel icons.
 
-You can try it by clicking here or download as an Android app by clicking here. 
+You can try it by [clicking here.](https://enkelradio.netlify.app/)
 
 <br />
