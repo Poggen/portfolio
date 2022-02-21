@@ -12,13 +12,13 @@ description: React, Gatsby, PWA
 
 ### Overview
 
-I wanted to create the simplest possible radio player possible for the most popular channels at Sveriges Radio. The goal was to learn more about the open API at Sveriges Radio and to develop skills in React. 
+As a learning project I wanted to create a radio player. The goal was to create an easy to use player while learning more about React, design tokens and the open API at Sveriges Radio.
 
 <br />
 
 ### Insight
 
-8 out of 10 users visiting Sveriges Radio app and site immediately starts listening to a radio channel.
+When researching I found out 8 out of 10 users visiting Sveriges Radio app and site immediately starts listening to a radio channel. My first idea was to create something based available from our APIs that people could listen to, I knew immediately that it was going to be radio channels when I found this insight.
 
 <br />
 
