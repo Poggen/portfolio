@@ -2,7 +2,7 @@
 path: /a-simple-radio-player
 date: 2022-02-05T17:53:59.018Z
 title: A simple radio player
-description: React, Gatsby, PWA
+description: React, Gatsby
 ---
 
 
