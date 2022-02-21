@@ -4,6 +4,8 @@ date: 2022-02-05T17:53:59.018Z
 title: A simple radio player
 description: React, Gatsby, PWA
 ---
+![](https://jakobmagnusson.se/assets/radioplayer.png)
+
 ### Overview
 
 I wanted to create the simplest possible radio player possible for the most popular channels at Sveriges Radio. The goal was to learn more about the open API at Sveriges Radio and to develop skills in React. 
