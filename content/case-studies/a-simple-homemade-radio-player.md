@@ -14,12 +14,6 @@ As a learning project I wanted to build my own radio player. The goal was to bui
 
 <br />
 
-### Insight
-
-When researching I found out 8 out of 10 users visiting Sveriges Radio app and site immediately starts listening to a radio channel. My first idea was to create something based available from our APIs that people could listen to, I knew immediately that it was going to be radio channels when I found this insight.
-
-<br />
-
 ### Challenges
 
 The biggest challenge was to make it as easy as possible for the user to get started. Another challenge was my limited skills in React and using using a public API was something that I've never done before.
