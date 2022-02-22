@@ -4,15 +4,13 @@ date: 2022-02-05T17:53:59.018Z
 title: Built my own radio player
 description: React, Gatsby
 ---
-
-
 ![](https://jakobmagnusson.se/assets/radioplayer.png)
 
 <br />
 
 ### Overview
 
-As a learning project I wanted to create a radio player. The goal was to create an easy to use player while learning more about React, design tokens and the open API at Sveriges Radio.
+As a learning project I wanted to build my own radio player. The goal was to build an easy to use player while learning more about React, design tokens and the open API at Sveriges Radio.
 
 <br />
 
@@ -38,6 +36,6 @@ I choose to make the simples radio player possible, when you tap an icon of a ch
 
 I learned to find and install NPM packages that I hadn't done before. I also learned to create an re-usable component in React which I used in a grid to create a button for each radio channel. And I also learned how to use the open API at Sveriges Radio in order to connect the audio streams to the re-usable components.
 
-You can try the radio player by [clicking here.](https://enkelradio.netlify.app/)
-
 <br />
+
+You can try the radio player by [clicking here.](https://enkelradio.netlify.app/)
