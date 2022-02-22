@@ -1,7 +1,7 @@
 ---
-path: /a-simple-radio-player
+path: /built-my-own-radio-player
 date: 2022-02-05T17:53:59.018Z
-title: A simple radio player
+title: Built my own radio player
 description: React, Gatsby
 ---
 
