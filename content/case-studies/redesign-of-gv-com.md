@@ -6,7 +6,7 @@ description: User Interface Design, Interaction Design
 ---
 ### Overview
 
-In 2018-2019 I redesigned Google Ventures site GV.com. I did all of the UI-design based on branding by Viktor Persson at Grafikwerket. 
+In 2018-2019 I redesigned Google Ventures site GV.com. I did all of the UI-design based on branding by Viktor Persson at [Grafikwerket.](https://grafikwerket.com/) 
 
 <br />
 
