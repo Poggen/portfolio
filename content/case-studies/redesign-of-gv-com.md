@@ -4,6 +4,12 @@ date: 2022-02-22T20:27:35.091Z
 title: Redesign of GV.com
 description: User Interface Design, Interaction Design
 ---
+
+
+![](https://www.jakobmagnusson.se/assets/gv-01.png)
+
+<br />
+
 ### Overview
 
 In 2018-2019 I redesigned Google Ventures site GV.com. I did all of the UI-design based on branding by Viktor Persson at [Grafikwerket.](https://grafikwerket.com/) 
@@ -13,6 +19,10 @@ In 2018-2019 I redesigned Google Ventures site GV.com. I did all of the UI-desig
 ### Challenges
 
 Presenting all of the portfolio companies with their branding while keeping the Google Ventures branding consistent across the site was one of the biggest challenges.
+
+<br />
+
+![](https://www.jakobmagnusson.se/assets/gv-02.png)
 
 <br />
 
@@ -29,3 +39,7 @@ Delivering a project across the globe was a first for me in this project. It was
 <br />
 
 GV.com today looks like I designed it except the news page, check it out by [clicking here.](https://www.gv.com/)
+
+<br />
+
+![](https://www.jakobmagnusson.se/assets/gv-03.png)
