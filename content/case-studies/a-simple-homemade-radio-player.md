@@ -1,10 +1,10 @@
 ---
-path: /built-my-own-radio-player
+path: /built-a-radio-player
 date: 2022-02-05T17:53:59.018Z
-title: Built my own radio player
+title: Built a radio player
 description: React, Gatsby
 ---
-![](https://jakobmagnusson.se/assets/radioplayer.png)
+![](https://www.jakobmagnusson.se/assets/radio-01.png)
 
 <br />
 
