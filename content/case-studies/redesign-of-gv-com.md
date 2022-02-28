@@ -2,7 +2,7 @@
 path: /redesign-of-gv.com
 date: 2022-02-22T20:27:35.091Z
 title: Redesign of GV.com
-description: User Interface Design, Interaction Design
+description: UI Design, Design system
 ---
 
 
