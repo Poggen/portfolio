@@ -10,25 +10,25 @@ description: React, Gatsby
 
 ### Overview
 
-As a learning project I wanted to build my own radio player. The goal was to build an easy to use player while learning more about React, design tokens and the open API at Sveriges Radio.
+As a learning project I wanted to design and build my own radio player. The goal was to learn more about React, design tokens and API at Sveriges Radio.
 
 <br />
 
 ### Challenges
 
-The biggest challenge was to make it as easy as possible for the user to get started. Another challenge was my limited skills in React and using using a public API was something that I've never done before.
+Given my limited skills in React the biggest challenge was to design something that I actually could figure out how to build. Another challenge was using the API for live radio channels.
 
 <br />
 
 ### Solution
 
-I choose to make the simples radio player possible, when you tap an icon of a channel the channel starts playing and when you tap again it stops playing. I wrote it in React, it runs on Netlify and Gatsby. I added a simple audio player as NPM package and created re-useable components for channel icons.
+I choose to make the simplest radio player possible. When you tap an icon of a channel the channel starts playing and when you tap again it stops playing. I created a re-usable component in code that is placed in a grid of four items, each instance of the component is configured with an unique channel logo and mp3 stream for audio.
 
 <br />
 
 ### Learnings
 
-I learned to find and install NPM packages that I hadn't done before. I also learned to create an re-usable component in React which I used in a grid to create a button for each radio channel. And I also learned how to use the open API at Sveriges Radio in order to connect the audio streams to the re-usable components.
+I learned to find and install NPM packages that I hadn't done before. I also learned to create an re-usable component in React, its works the same as in Sketch where I designed it. Pretty neat! And I also learned how to use the open API at Sveriges Radio in order to connect the audio streams to the re-usable components.
 
 <br />
 
