@@ -1,7 +1,7 @@
 ---
-path: /redesign-of-gv.com
+path: /new-site-for-google-ventures
 date: 2022-02-22T20:27:35.091Z
-title: Redesign of GV.com
+title: New site for Google Ventures
 description: UI Design, Design system
 ---
 
