@@ -8,10 +8,8 @@ description: UI Design, Design system
 
 <br />
 
-My role: Product Designer
-
-Client: [Grafikwerket](https://grafikwerket.com/)
-
+My role: Product Designer\
+Client: [Grafikwerket](https://grafikwerket.com/)\
 Year: 2019-2020
 
 <br />
