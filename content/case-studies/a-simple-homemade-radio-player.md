@@ -8,7 +8,8 @@ description: React, Gatsby
 
 <br />
 
-My role: Student\
+My role: Student
+
 Year: 2021\
 \
 <br />
