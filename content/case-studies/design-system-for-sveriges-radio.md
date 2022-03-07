@@ -4,7 +4,7 @@ date: 2022-02-28T14:43:34.094Z
 title: Design System for Sveriges Radio
 description: UI Design, Design system
 ---
-![](assets/ds-1.png)
+![](https://www.jakobmagnusson.se/assets/ds-1.png)
 
 <br />
 
@@ -28,7 +28,7 @@ Where does one even start with design systems in a big organisation? How do you 
 
 <br />
 
-![](assets/ds-2.png)
+![](https://www.jakobmagnusson.se/assets/ds-2.png)
 
 <br />
 
