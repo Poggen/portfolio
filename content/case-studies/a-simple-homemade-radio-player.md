@@ -8,7 +8,7 @@ description: React, Gatsby
 
 <br />
 
-My role: Student
+My role: Spare time project
 
 Year: 2021\
 \
