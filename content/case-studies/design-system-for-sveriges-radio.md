@@ -4,13 +4,17 @@ date: 2022-02-28T14:43:34.094Z
 title: Design System for Sveriges Radio
 description: UI Design, Design system
 ---
+![](assets/ds-1.png)
+
+<br />
+
 My role: Lead Product Designer
 
 Client: [S](https://sverigesradio.se/)[veriges Radio](https://sverigesradio.se/)
 
 Year: 2019 - 
 
-<br/>
+<br />
 
 ### Overview
 
