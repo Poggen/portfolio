@@ -10,7 +10,7 @@ description: UI Design, Design system
 
 My role: Lead Product Designer
 
-Client: [S](https://sverigesradio.se/)[veriges Radio](https://sverigesradio.se/)
+Client: [Sveriges Radio](https://sverigesradio.se)
 
 Year: 2019 - 
 
