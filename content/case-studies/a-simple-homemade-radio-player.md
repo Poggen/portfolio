@@ -8,6 +8,11 @@ description: React, Gatsby
 
 <br />
 
+My role: Student\
+Year: 2021\
+\
+<br />
+
 ### Overview
 
 As a learning project I wanted to design and build my own radio player. The goal was to learn more about React, design tokens and API at Sveriges Radio.
