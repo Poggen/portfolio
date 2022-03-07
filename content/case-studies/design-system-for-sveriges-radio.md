@@ -4,6 +4,14 @@ date: 2022-02-28T14:43:34.094Z
 title: Design System for Sveriges Radio
 description: UI Design, Design system
 ---
+My role: Lead Product Designer
+
+Client: [S](https://sverigesradio.se/)[veriges Radio](https://sverigesradio.se/)
+
+Year: 2019 - 
+
+<br/>
+
 ### Overview
 
 As a lead designer I've been working with design systems for Sveriges Radio Play since 2019. Creating a design language, setting up workflows and making sure all of the design is made to scale and work for just about every Swede from 8 to 65 years old.
