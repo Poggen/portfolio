@@ -28,6 +28,10 @@ Where does one even start with design systems in a big organisation? How do you 
 
 <br />
 
+![](assets/ds-2.png)
+
+<br />
+
 ### Solution
 
 At Sveriges Radio I started by spending three months doing research, interviewing and building a small PoC. Then I set off as an ambassador for design systems, speaking to everyone even remotely working design. I think the most important thing with design systems is that it starts being used, then you'll figure out all of the details.
