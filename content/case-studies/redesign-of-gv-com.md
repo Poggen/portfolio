@@ -4,9 +4,13 @@ date: 2022-02-22T20:27:35.091Z
 title: New site for Google Ventures
 description: UI Design, Design system
 ---
-
-
 ![](https://www.jakobmagnusson.se/assets/gv-01.png)
+
+<br />
+
+My role: Product Designer\
+Client: [Grafikwerket](https://grafikwerket.com/)\
+Year: 2019-2020
 
 <br />
 
