@@ -10,8 +10,8 @@ description: React, Gatsby
 
 My role: Spare time project
 
-Year: 2021\
-\
+Year: 2021
+
 <br />
 
 ### Overview
