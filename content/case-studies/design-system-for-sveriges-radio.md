@@ -18,7 +18,7 @@ Year: 2019 -
 
 ### Overview
 
-As a lead designer I've been working with design systems at Sveriges Radio since 2019. Creating a design language, setting up workflows and making sure all of the design is made to scale and work for just about every Swede from 8 to 65 years old.
+As a lead designer I've been working with design systems at Sveriges Radio since 2019. Creating a design language, setting up workflows and making sure all of the design is made to scale and work for over 2 million unique users every week.
 
 <br />
 
