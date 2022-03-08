@@ -42,27 +42,21 @@ module.exports = {
       resolve: `gatsby-plugin-mdx`,
       options: {
         extensions: [".mdx", ".md"],
+        plugins: [
+          `gatsby-remark-images`,
+          `gatsby-remark-images-medium-zoom` // Important!
+        ],
         gatsbyRemarkPlugins: [
           {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 590,
-            },
+              linkImagesToOriginal: false // Important!
+            }
           },
           {
-            resolve: `gatsby-remark-responsive-iframe`,
-            options: {
-              wrapperStyle: `margin-bottom: 1.0725rem`,
-            },
-          },
-          {
-            resolve: `gatsby-remark-vscode`,
-          },
-          {
-            resolve: `gatsby-remark-copy-linked-files`,
-          },
-          {
-            resolve: `gatsby-remark-smartypants`,
+            resolve: `gatsby-remark-images-medium-zoom`, // Important!
+            options: {}
           },
         ],
       },
