@@ -48,6 +48,6 @@ As an ambassador I came with a component library in Storybook and all of the fun
 
 The most important learning is that you can only convince people to start working with design systems if you sell them all of the advantages like speed, consistency and value for the user. To be user-centered is important and it's not only the end user when it comes to design systems, it's everyone from developers to designers to stakeholders. 
 
-Design systems is a companies guide for building digital products.
+#### \-
 
-<br />
+Design systems is a companies guide for building digital products.
