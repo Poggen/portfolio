@@ -22,3 +22,7 @@ exports.onRenderBody = ({setBodyAttributes,}) => {
 ```
 
 By adding this code the background color is set before the site is built, so no more flickering.
+
+#### \-
+
+That's it, small hacks are easy :)
