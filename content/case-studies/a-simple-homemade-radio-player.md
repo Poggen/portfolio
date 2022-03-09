@@ -36,6 +36,6 @@ I choose to make the simplest radio player possible. When you tap an icon of a c
 
 I learned to find and install NPM packages that I hadn't done before. I also learned to create an re-usable component in React, its works the same as in Sketch where I designed it. Pretty neat! And I also learned how to use the open API at Sveriges Radio in order to connect the audio streams to the re-usable components.
 
-<br />
+#### \-
 
 You can try the radio player by [clicking here.](https://enkelradio.netlify.app/)
