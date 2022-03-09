@@ -50,13 +50,16 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 590,
+              maxWidth: 1200,
               linkImagesToOriginal: false // Important!
             }
           },
           {
             resolve: `gatsby-remark-images-medium-zoom`, // Important!
-            options: {}
+            options: {
+              margin: 36,
+              scrollOffset: 0,
+            },
           },
         ],
       },
