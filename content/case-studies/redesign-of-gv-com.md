@@ -14,8 +14,6 @@ Client: [Grafikwerket](https://grafikwerket.com/)
 
 Year: 2019-2020
 
-
-
 <br />
 
 ### Overview
@@ -40,14 +38,12 @@ The diagonal "slash" element was color coded for respective portfolio company an
 
 <br />
 
+![](https://www.jakobmagnusson.se/assets/gv-03.png)
+
 ### Learnings
 
 Delivering a project across the globe was a first for me in this project. It was time saving for both me and developers to use grid, spacing and typography from a well established design system like material design. I also learned that color coding 50+ portfolio companies is a pretty daunting task. 
 
-<br />
+#### \-
 
 GV.com today looks like I designed it except the news page, check it out by [clicking here.](https://www.gv.com/)
-
-<br />
-
-![](https://www.jakobmagnusson.se/assets/gv-03.png)
