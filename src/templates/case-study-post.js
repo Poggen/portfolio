@@ -12,7 +12,6 @@ import HeaderPrimary from "../components/header/headerPrimary"
 class CaseStudyPostTemplate extends React.Component {
   render() {
     const post = this.props.data.mdx
-    const { title } = this.props
     return (
       <>
       <HeaderTertiary />
