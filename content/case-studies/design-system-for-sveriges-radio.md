@@ -2,7 +2,7 @@
 path: /design-system-for-sveriges-radio
 date: 2022-02-28T14:43:34.094Z
 title: Design System for Sveriges Radio
-description: UI Design, Design system
+description: Design systemm, UI Design
 ---
 ![](https://www.jakobmagnusson.se/assets/ds-01.png)
 
@@ -38,7 +38,7 @@ Where does one even start with design systems in a big organisation? How do you 
 
 ### Solution
 
-At Sveriges Radio I started by spending three months doing research, interviewing and building a PoC. Then I set off as an ambassador for design systems, speaking to everyone even remotely working with design. I think the most important thing with design systems is that it starts being used, then you'll figure out all of the details.
+At Sveriges Radio I started with doing research, interviewing and building a PoC. Then I set off as an ambassador for design systems, speaking to everyone even remotely working with design. I think the most important thing with design systems is that it starts being used, then you'll figure out all of the details.
 
 As an ambassador I came with a component library in Storybook and all of the fundamentals as variables as an NPM package for developers to use. Fellow designers were onboarded when we designed together in Figma with components and styles. We created design principles and built prototypes for user testing among many activities.
 
@@ -50,8 +50,8 @@ As an ambassador I came with a component library in Storybook and all of the fun
 
 ### Learnings
 
-The most important learning is that you can only convince people to start working with design systems if you sell them all of the advantages like speed, consistency and value for the user. To be user-centered is important and it's not only the end user when it comes to design systems, it's everyone from developers to designers to stakeholders. 
+The most important learning is that you can only convince co-workers to start working with design systems if you sell them all of the advantages like speed, consistency and value for the user. To be user-centered is important and for design systems the users are developers, designers and stakeholders. The end user is hopefully a happy listener.
 
 #### \-
 
-Design systems is a companies guide for building digital products.
+Design systems is not a destination, is a way of working. It's really exciting.
