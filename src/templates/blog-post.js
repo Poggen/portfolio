@@ -11,7 +11,6 @@ import HeaderTertiary from "../components/header/headerTertiary"
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.mdx
-    const { title } = this.props
     return (
       <>
       <HeaderTertiary />
