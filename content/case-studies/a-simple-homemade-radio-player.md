@@ -26,6 +26,10 @@ Given my limited skills in React the biggest challenge was to design something t
 
 <br />
 
+![](https://www.jakobmagnusson.se/assets/radio-01.png)
+
+<br />
+
 ### Solution
 
 I choose to make the simplest radio player possible. When you tap an icon of a channel the channel starts playing and when you tap again it stops playing. I created a re-usable component in code that is placed in a grid of four items, each instance of the component is configured with an unique channel logo and mp3 stream for audio.
