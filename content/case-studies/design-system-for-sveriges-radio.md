@@ -4,7 +4,7 @@ date: 2022-02-28T14:43:34.094Z
 title: Design System for Sveriges Radio
 description: UI Design, Design system
 ---
-![](https://www.jakobmagnusson.se/assets/ds-1.png)
+![](https://www.jakobmagnusson.se/assets/ds-01.png)
 
 <br />
 
@@ -22,13 +22,17 @@ As a lead designer I've been working with design systems at Sveriges Radio since
 
 <br />
 
+![](https://www.jakobmagnusson.se/assets/ds-02.png)
+
+<br />
+
 ### Challenges
 
 Where does one even start with design systems in a big organisation? How do you get fellow designers to start working systematically? How do you convince stakeholders to give you resources and time to set up a team? How does components scale when your product covers smallest phone to biggest TV? And how do you keep all of this user-centered?
 
 <br />
 
-![](https://www.jakobmagnusson.se/assets/ds-2.png)
+![](https://www.jakobmagnusson.se/assets/ds-03.png)
 
 <br />
 
@@ -40,7 +44,7 @@ As an ambassador I came with a component library in Storybook and all of the fun
 
 <br />
 
-![](https://www.jakobmagnusson.se/assets/ds-3.png)
+![](https://www.jakobmagnusson.se/assets/ds-04.png)
 
 <br />
 
