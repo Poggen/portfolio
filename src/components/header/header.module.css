@@ -20,3 +20,8 @@
   padding: var(--spacing-large) 0 0;
   font-family: var(--heading-font-family);
 }
+
+.tertiary {
+  margin-top: var(--spacing-large);
+  font-family: var(--heading-font-family);
+}
