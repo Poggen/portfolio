@@ -9,7 +9,7 @@ const HeaderTertiary = ({ tertiary }) => (
       className={`${styles.tertiary}`}
     >
       <body>
-       <a href="https://www.jakobmagnusson.se/">Back to start</a>
+       <a href="https://www.jakobmagnusson.se/">← Back to start</a>
       </body>
     </header>
   </Container>
