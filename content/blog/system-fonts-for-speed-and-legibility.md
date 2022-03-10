@@ -4,7 +4,7 @@ date: 2022-03-10T17:19:10.984Z
 title: System fonts for speed and legibility
 description: UI Design
 ---
-I found this neat CSS trick for using system fonts. If you for example are reading this on a Mac with Monterrey then your reading this in San Francisco Pro and on a computer with Windows 10 then your reading this in Segoe UI.
+I found this neat CSS trick for using system fonts. If you for example are reading this on a Mac with Monterrey then your reading this in San Francisco Pro and on a computer with Windows 10 then its Segoe UI.
 
 <br />
 
