@@ -26,7 +26,7 @@ Given my limited skills in React the biggest challenge was to design something t
 
 <br />
 
-![](https://www.jakobmagnusson.se/assets/radio-01.png)
+![](https://www.jakobmagnusson.se/assets/radio-02.png)
 
 <br />
 
