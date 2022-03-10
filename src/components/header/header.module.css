@@ -12,7 +12,7 @@
 }
 
 .primary {
-  padding: var(--spacing-xlarge) 0 0;
+  padding: var(--spacing-large) 0 0;
   font-family: var(--heading-font-family);
 }
 
