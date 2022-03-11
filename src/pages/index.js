@@ -7,6 +7,7 @@ import TextPrimary from "../components/text/textPrimary"
 import Contact from "../components/contact/Contact"
 import HeaderSecondary from "../components/header/headerSecondary"
 import CaseExcerpt from "../components/casestudy/CasestudyExcerpt"
+import HeaderPrimary from "../components/header/headerPrimary"
 
 class IndexPage extends React.Component {
   render() {
@@ -18,6 +19,7 @@ class IndexPage extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
+        <HeaderPrimary title={siteTitle} />
         <Seo
           title="Product Designer Jakob Magnusson"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}

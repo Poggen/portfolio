@@ -5,16 +5,20 @@ import Seo from "../components/seo"
 import Container from "../components/container/container"
 import BlogContent from "../components/blog/BlogContent"
 import * as Styles from "../components/blog/blog.module.css"
+import HeaderPrimary from "../components/header/headerPrimary"
+import HeaderTertiary from "../components/header/headerTertiary"
 
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.mdx
     return (
+      <>
+      <HeaderTertiary />
+      <HeaderPrimary title={post.frontmatter.title} />
       <Layout location={this.props.location} title={post.frontmatter.title}>
         <Seo
           title={post.frontmatter.title}
-          description={post.frontmatter.description || post.excerpt}
-        />
+          description={post.frontmatter.description || post.excerpt} />
         <Container>
           <p
             className={Styles.postmeta}
@@ -35,7 +39,7 @@ class BlogPostTemplate extends React.Component {
           }}
         >
         </ul>
-      </Layout>
+      </Layout></>
     )
   }
 }

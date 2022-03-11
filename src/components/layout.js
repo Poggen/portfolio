@@ -3,12 +3,11 @@ import { MDXProvider } from "@mdx-js/react"
 import "./layout.css"
 import Footer from "./footer/Footer"
 import Container from "./container/container"
-import HeaderPrimary from "../components/header/headerPrimary"
 import Zoomable from "./Zoomable"
 
 class Layout extends React.Component {
   render() {
-    const { title, children } = this.props
+    const { children } = this.props
     return (
       <MDXProvider
         components={{
@@ -19,7 +18,6 @@ class Layout extends React.Component {
           ),
         }}
       >
-        <HeaderPrimary title={title}></HeaderPrimary>
         <main>{children}</main>
         <Container>
           <Footer />

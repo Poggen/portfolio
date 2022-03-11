@@ -5,11 +5,17 @@ import Seo from "../components/seo"
 import Container from "../components/container/container"
 import CaseContent from "../components/casestudy/CaseContent"
 import * as Styles from "../components/casestudy/casestudy.module.css"
+import HeaderTertiary from "../components/header/headerTertiary"
+import HeaderPrimary from "../components/header/headerPrimary"
+
 
 class CaseStudyPostTemplate extends React.Component {
   render() {
     const post = this.props.data.mdx
     return (
+      <>
+      <HeaderTertiary />
+      <HeaderPrimary title={post.frontmatter.title} />
       <Layout location={this.props.location} title={post.frontmatter.title}>
         <Seo
           title={post.frontmatter.title}
@@ -36,6 +42,7 @@ class CaseStudyPostTemplate extends React.Component {
         >
         </ul>
       </Layout>
+      </>
     )
   }
 }

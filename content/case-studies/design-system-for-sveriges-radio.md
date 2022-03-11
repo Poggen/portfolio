@@ -2,7 +2,7 @@
 path: /design-system-for-sveriges-radio
 date: 2022-02-28T14:43:34.094Z
 title: Design System for Sveriges Radio
-description: Design systemm, UI Design
+description: Design system, UI Design
 ---
 ![](https://www.jakobmagnusson.se/assets/ds-01.png)
 
