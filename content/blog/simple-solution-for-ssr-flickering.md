@@ -11,7 +11,7 @@ So the problem is general and the solution is pretty specific. I use Gatsby with
 In gatsby-ssr.js I added:
 
 ```
-exports.onRenderBody = ({setBodyAttributes,}) => {
+exports.onRenderBody = ({setBodyAttributes}) => {
     
     setBodyAttributes({
       style: {
