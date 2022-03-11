@@ -8,7 +8,9 @@ description: React, Gatsby, Design tokens
 
 <br />
 
-My role: Spare time project
+My role: Designer / Developer
+
+Client: My own learning project
 
 Year: 2021
 
